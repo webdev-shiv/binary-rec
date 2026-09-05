@@ -5,7 +5,7 @@ export async function ensureDataSeeded() {
   try {
     let cycle = await db.recruitmentCycle.findFirst({
       where: { status: 'ACTIVE' },
-    });
+    }).catch(() => null);
 
     if (!cycle) {
       cycle = await db.recruitmentCycle.create({
@@ -14,12 +14,14 @@ export async function ensureDataSeeded() {
           year: 2026,
           status: 'ACTIVE',
         },
-      });
+      }).catch(() => null);
     }
+
+    if (!cycle) return null;
 
     const count = await db.participant.count({
       where: { recruitmentCycleId: cycle.id },
-    });
+    }).catch(() => 0);
 
     if (count >= 225) return cycle;
 

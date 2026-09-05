@@ -5,15 +5,19 @@ import { OFFICIAL_150_SHORTLIST } from '@/lib/students150';
 
 export async function GET() {
   try {
-    await ensureDataSeeded();
-    let cycle = await db.recruitmentCycle.findFirst({ where: { status: 'ACTIVE' } });
-
     let dbParticipants: any[] = [];
-    if (cycle) {
-      dbParticipants = await db.participant.findMany({
-        where: { recruitmentCycleId: cycle.id },
-        include: { piScores: true, finalResult: true },
-      });
+    try {
+      await ensureDataSeeded();
+      let cycle = await db.recruitmentCycle.findFirst({ where: { status: 'ACTIVE' } });
+      if (cycle) {
+        dbParticipants = await db.participant.findMany({
+          where: { recruitmentCycleId: cycle.id },
+          include: { piScores: true, finalResult: true },
+        });
+      }
+    } catch (dbErr) {
+      console.warn('Stats DB query fallback:', dbErr);
+      dbParticipants = [];
     }
 
     let participants = dbParticipants;
