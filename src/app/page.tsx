@@ -302,6 +302,7 @@ export default function Dashboard() {
   const [loadingParticipants, setLoadingParticipants] = useState(false);
   const [searchTerm, setSearchTerm] = useState('');
   const [branchFilter, setBranchFilter] = useState('ALL');
+  const [sectionFilter, setSectionFilter] = useState('ALL');
   const [domainFilter, setDomainFilter] = useState('ALL');
   const [statusFilter, setStatusFilter] = useState('ALL');
   const [yearFilter, setYearFilter] = useState('ALL');
@@ -375,6 +376,7 @@ export default function Dashboard() {
       params.set('limit', '500');
       if (searchTerm) params.set('search', searchTerm);
       if (branchFilter !== 'ALL') params.set('branch', branchFilter);
+      if (sectionFilter !== 'ALL') params.set('section', sectionFilter);
       if (domainFilter !== 'ALL') params.set('domain', domainFilter);
       if (statusFilter !== 'ALL') params.set('selectionStatus', statusFilter);
       if (yearFilter !== 'ALL') params.set('year', yearFilter);
@@ -416,6 +418,9 @@ export default function Dashboard() {
       if (branchFilter !== 'ALL') {
         merged = merged.filter((p) => p.branch === branchFilter);
       }
+      if (sectionFilter !== 'ALL') {
+        merged = merged.filter((p) => p.section === sectionFilter);
+      }
       if (domainFilter !== 'ALL') {
         merged = merged.filter((p) => p.primaryDomain === domainFilter);
       }
@@ -432,7 +437,7 @@ export default function Dashboard() {
     } finally {
       setLoadingParticipants(false);
     }
-  }, [searchTerm, branchFilter, domainFilter, statusFilter, yearFilter]);
+  }, [searchTerm, branchFilter, sectionFilter, domainFilter, statusFilter, yearFilter]);
 
   // Fetch PI Rounds
   const fetchPIRounds = useCallback(async () => {
@@ -1545,6 +1550,18 @@ export default function Dashboard() {
                   <option value="ECE">ECE</option>
                   <option value="IoT">IoT</option>
                   <option value="UNKNOWN">UNKNOWN</option>
+                </select>
+
+                <select
+                  value={sectionFilter}
+                  onChange={(e) => setSectionFilter(e.target.value)}
+                  className={`rounded-lg text-xs px-3 py-1.5 focus:outline-none border ${isCute ? 'bg-white text-[#1A202C] border-[#9BCEC1]/60' : isSage ? 'bg-[#1E271F] text-white border-[#99CDD8]/40' : isPurple ? 'bg-[#2B1138] text-white border-[#A56ABD]/40' : 'bg-black text-white border-[#FCA311]/40'}`}
+                >
+                  <option value="ALL">All Sections</option>
+                  <option value="A">Section A</option>
+                  <option value="B">Section B</option>
+                  <option value="C">Section C</option>
+                  <option value="D">Section D</option>
                 </select>
 
                 <select
