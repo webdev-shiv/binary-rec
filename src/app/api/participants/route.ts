@@ -26,40 +26,43 @@ export async function GET(request: Request) {
 
     let participants: any[] = [];
     if (activeCycle) {
-      const where: any = {
-        recruitmentCycleId: activeCycle.id,
-      };
+      const andConditions: any[] = [{ recruitmentCycleId: activeCycle.id }];
 
       if (search) {
-        where.OR = [
-          { name: { contains: search } },
-          { rollNo: { contains: search } },
-          { email: { contains: search } },
-          { contactNo: { contains: search } },
-          { technicalSkills: { contains: search } },
-          { skills: { contains: search } },
-        ];
+        andConditions.push({
+          OR: [
+            { name: { contains: search } },
+            { rollNo: { contains: search } },
+            { email: { contains: search } },
+            { contactNo: { contains: search } },
+            { technicalSkills: { contains: search } },
+            { skills: { contains: search } },
+            { primaryDomain: { contains: search } },
+            { branch: { contains: search } },
+          ],
+        });
       }
 
-      if (branch && branch !== 'ALL') where.branch = branch;
-      if (section && section !== 'ALL') where.section = section;
-      if (year && year !== 'ALL') where.year = year;
+      if (branch && branch !== 'ALL') andConditions.push({ branch });
+      if (section && section !== 'ALL') andConditions.push({ section });
+      if (year && year !== 'ALL') andConditions.push({ year });
       if (domain && domain !== 'ALL') {
-        where.OR = [
-          ...(where.OR || []),
-          { primaryDomain: domain },
-          { allDomains: { contains: domain } },
-        ];
+        andConditions.push({
+          OR: [
+            { primaryDomain: domain },
+            { allDomains: { contains: domain } },
+          ],
+        });
       }
 
       if (selectionStatus && selectionStatus !== 'ALL') {
-        where.finalResult = {
-          selectionStatus: selectionStatus,
-        };
+        andConditions.push({
+          finalResult: { selectionStatus },
+        });
       }
 
       participants = await db.participant.findMany({
-        where,
+        where: { AND: andConditions },
         include: {
           piScores: {
             include: {
@@ -79,7 +82,7 @@ export async function GET(request: Request) {
         name: s.name,
         rollNo: s.rollNo,
         gender: 'Unspecified',
-        email: s.email || `${s.name.toLowerCase().replace(/[^a-z0-9]/g, '')}.${s.rollNo.slice(-4)}@binaryclub.org`,
+        email: s.email || `${s.name.toLowerCase().replace(/[^a-z0-9]/g, '')}.${s.rollNo.slice(-4)}@akgec.ac.in`,
         contactNo: s.contactNo || '',
         year: '2nd Year',
         branch: s.branch,
@@ -129,7 +132,8 @@ export async function GET(request: Request) {
             p.rollNo.includes(q) ||
             p.email.toLowerCase().includes(q) ||
             p.primaryDomain.toLowerCase().includes(q) ||
-            p.technicalSkills.toLowerCase().includes(q)
+            p.technicalSkills.toLowerCase().includes(q) ||
+            p.branch.toLowerCase().includes(q)
         );
       }
       if (branch && branch !== 'ALL') {
@@ -208,7 +212,7 @@ export async function GET(request: Request) {
       name: s.name,
       rollNo: s.rollNo,
       gender: 'Unspecified',
-      email: s.email || `${s.name.toLowerCase().replace(/[^a-z0-9]/g, '')}.${s.rollNo.slice(-4)}@binaryclub.org`,
+      email: s.email || `${s.name.toLowerCase().replace(/[^a-z0-9]/g, '')}.${s.rollNo.slice(-4)}@akgec.ac.in`,
       contactNo: s.contactNo || '',
       year: '2nd Year',
       branch: s.branch,
@@ -305,7 +309,7 @@ export async function POST(request: Request) {
         recruitmentCycleId: cycle.id,
         name,
         rollNo,
-        email: email || `${rollNo.slice(-4)}@binaryclub.org`,
+        email: email || `${rollNo.slice(-4)}@akgec.ac.in`,
         branch: branch || 'CSE',
         section: section || 'A',
         year: year || '2nd Year',

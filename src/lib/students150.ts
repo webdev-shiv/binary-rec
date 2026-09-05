@@ -48,7 +48,7 @@ export function enrichStudent(s: ShortlistedStudent): ShortlistedStudent {
     };
   }
 
-  const email = isNA(s.email) || s.email?.includes('harshmanipandey.0...') ? `${lowerName}.${rollSuffix}@akgec.ac.in` : s.email!;
+  const email = isNA(s.email) || s.email?.includes('harshmanipandey.0...') || s.email?.includes('@binaryclub.org') ? `${lowerName}.${rollSuffix}@akgec.ac.in` : s.email!;
   const contactNo = isNA(s.contactNo) ? `+91 ${9871000000 + (rollNum * 17) % 89999999}` : s.contactNo!;
   const instagramId = isNA(s.instagramId) ? `@${lowerName}_${rollSuffix}` : s.instagramId!;
   const linkedinId = isNA(s.linkedinId) ? `linkedin.com/in/${lowerName}-${rollSuffix}` : s.linkedinId!;

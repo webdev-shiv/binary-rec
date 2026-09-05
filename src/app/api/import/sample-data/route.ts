@@ -51,7 +51,7 @@ export async function POST() {
     }
 
     for (const s of OFFICIAL_150_SHORTLIST) {
-      const email = s.email || `${s.name.toLowerCase().replace(/[^a-z0-9]/g, '')}.${s.rollNo.slice(-4)}@binaryclub.org`;
+      const email = s.email || `${s.name.toLowerCase().replace(/[^a-z0-9]/g, '')}.${s.rollNo.slice(-4)}@akgec.ac.in`;
       
       const p = await db.participant.create({
         data: {

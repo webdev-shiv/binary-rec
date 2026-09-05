@@ -29,7 +29,7 @@ export async function GET() {
         name: s.name,
         rollNo: s.rollNo,
         gender: 'Unspecified',
-        email: s.email || `${s.name.toLowerCase().replace(/[^a-z0-9]/g, '')}.${s.rollNo.slice(-4)}@binaryclub.org`,
+        email: s.email || `${s.name.toLowerCase().replace(/[^a-z0-9]/g, '')}.${s.rollNo.slice(-4)}@akgec.ac.in`,
         contactNo: s.contactNo || '',
         year: '2nd Year',
         branch: s.branch,

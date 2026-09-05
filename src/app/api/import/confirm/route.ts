@@ -33,7 +33,7 @@ export async function POST(request: Request) {
       const participantData = {
         name: c.name || 'Unnamed Participant',
         gender: c.gender || 'Unspecified',
-        email: c.email || `${rollNo.toLowerCase()}@binaryclub.org`,
+        email: c.email || `${rollNo.toLowerCase()}@akgec.ac.in`,
         contactNo: c.contactNo || '',
         year: c.year || '1st Year',
         branch: c.branch || 'CSE',

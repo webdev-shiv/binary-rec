@@ -40,6 +40,8 @@ import {
   Terminal,
   Lock,
   KeyRound,
+  Copy,
+  Check,
 } from 'lucide-react';
 import * as XLSX from 'xlsx';
 import { OFFICIAL_150_SHORTLIST, ShortlistedStudent, enrichStudent } from '@/lib/students150';
@@ -49,25 +51,11 @@ function downloadExcelRecord(participantsList: Participant[], filenamePrefix = '
 
   const exportRows = participantsList.map((p, idx) => {
     const totalScore = p.finalResult?.totalScore ?? (p.avgPIScore ? Number(p.avgPIScore.toFixed(1)) : 0);
-    const lastScore = p.piScores && p.piScores.length > 0 ? p.piScores[p.piScores.length - 1] : null;
     return {
       'Rank': p.finalResult?.finalRank || idx + 1,
       'Name': p.name,
       'Roll Number': p.rollNo,
-      'Branch': p.branch,
-      'Section': p.section,
-      'Year': p.year || '2nd Year',
-      'Primary Domain': p.primaryDomain,
-      'Email': p.email,
-      'Contact No': p.contactNo || '',
-      'Instagram': p.instagramId || '',
-      'LinkedIn': p.linkedinId || '',
-      'PI Total Score': totalScore,
-      'Recommendation': lastScore?.recommendation || (p.finalResult?.finalRank && p.finalResult.finalRank <= 50 ? 'STRONGLY_RECOMMEND' : 'RECOMMEND'),
-      'Selection Status': p.finalResult?.selectionStatus || 'SHORTLISTED',
-      'Technical Skills': p.technicalSkills || '',
-      'Projects': p.projects || '',
-      'Why Binary Club': p.whyBinaryClub || '',
+      'Marks': totalScore,
     };
   });
 
@@ -341,6 +329,15 @@ export default function Dashboard() {
   const [sampleDataMsg, setSampleDataMsg] = useState('');
   const [seedingSample, setSeedingSample] = useState(false);
 
+  const [copiedEmail, setCopiedEmail] = useState<string | null>(null);
+
+  const copyToClipboard = (text: string) => {
+    if (!text) return;
+    navigator.clipboard.writeText(text);
+    setCopiedEmail(text);
+    setTimeout(() => setCopiedEmail(null), 2000);
+  };
+
   // Check auth session
   const checkAuth = useCallback(async () => {
     try {
@@ -395,21 +392,38 @@ export default function Dashboard() {
 
       if (!fetchedList || fetchedList.length === 0) {
         fetchedList = convertShortlistToParticipants(OFFICIAL_150_SHORTLIST);
-        if (searchTerm) {
-          const term = searchTerm.toLowerCase();
-          fetchedList = fetchedList.filter((p) =>
-            p.name.toLowerCase().includes(term) ||
-            p.rollNo.toLowerCase().includes(term) ||
-            p.technicalSkills.toLowerCase().includes(term) ||
-            p.primaryDomain.toLowerCase().includes(term)
-          );
-        }
-        if (branchFilter !== 'ALL') fetchedList = fetchedList.filter((p) => p.branch === branchFilter);
-        if (domainFilter !== 'ALL') fetchedList = fetchedList.filter((p) => p.primaryDomain === domainFilter);
-        if (statusFilter !== 'ALL') fetchedList = fetchedList.filter((p) => (p.finalResult?.selectionStatus || 'SHORTLISTED') === statusFilter);
       }
 
-      const merged = mergeLocalDataWithParticipants(fetchedList);
+      let merged = mergeLocalDataWithParticipants(fetchedList);
+
+      // Perform local search and filter on merged list to guarantee 100% working search across all fields
+      if (searchTerm) {
+        const term = searchTerm.toLowerCase().trim();
+        merged = merged.filter((p) =>
+          (p.name && p.name.toLowerCase().includes(term)) ||
+          (p.rollNo && p.rollNo.toLowerCase().includes(term)) ||
+          (p.email && p.email.toLowerCase().includes(term)) ||
+          (p.branch && p.branch.toLowerCase().includes(term)) ||
+          (p.section && p.section.toLowerCase().includes(term)) ||
+          (p.primaryDomain && p.primaryDomain.toLowerCase().includes(term)) ||
+          (p.technicalSkills && p.technicalSkills.toLowerCase().includes(term)) ||
+          (p.projects && p.projects.toLowerCase().includes(term)) ||
+          (p.contactNo && p.contactNo.toLowerCase().includes(term))
+        );
+      }
+      if (branchFilter !== 'ALL') {
+        merged = merged.filter((p) => p.branch === branchFilter);
+      }
+      if (domainFilter !== 'ALL') {
+        merged = merged.filter((p) => p.primaryDomain === domainFilter);
+      }
+      if (statusFilter !== 'ALL') {
+        merged = merged.filter((p) => (p.finalResult?.selectionStatus || 'SHORTLISTED') === statusFilter);
+      }
+      if (yearFilter !== 'ALL') {
+        merged = merged.filter((p) => p.year === yearFilter);
+      }
+
       setParticipants(merged);
     } catch (e) {
       console.error(e);
@@ -1126,18 +1140,51 @@ export default function Dashboard() {
             </button>
 
             {currentUser ? (
-              <div className={`flex items-center gap-3 px-3 py-1.5 rounded-lg border ${
-                isTarget ? 'bg-[#1F151B]/80 border-[#FF8383]/40' : isSage ? 'bg-[#1E271F]/80 border-[#99CDD8]/40' : isPurple ? 'bg-[#2B1138]/80 border-[#A56ABD]/40' : 'bg-black/60 border-[#FCA311]/30'
+              <div className={`flex items-center gap-3 px-3.5 py-2 rounded-xl border transition shadow-md ${
+                isCute
+                  ? 'bg-white/90 border-[#9BCEC1]/60 text-[#2D3748]'
+                  : isTarget
+                  ? 'bg-[#1F151B]/90 border-[#FF8383]/40'
+                  : isSage
+                  ? 'bg-[#1E271F]/90 border-[#99CDD8]/40'
+                  : isPurple
+                  ? 'bg-[#2B1138]/90 border-[#A56ABD]/40'
+                  : 'bg-black/80 border-[#FCA311]/30'
               }`}>
-                <ShieldCheck className={`w-4 h-4 ${isTarget ? 'text-[#FF8383]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#E7DBEF]' : 'text-[#FCA311]'}`} />
-                <div className="text-left leading-tight">
-                  <div className="text-xs font-bold text-white">{currentUser.name}</div>
-                  <div className={`text-[10px] font-semibold ${isTarget ? 'text-[#FFC193]' : isSage ? 'text-[#F3C3B2]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FCA311]'}`}>{currentUser.role}</div>
+                <ShieldCheck className={`w-5 h-5 shrink-0 ${isCute ? 'text-[#67A2C5]' : isTarget ? 'text-[#FF8383]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#E7DBEF]' : 'text-[#FCA311]'}`} />
+                <div className="text-left leading-snug">
+                  <div className={`text-xs font-black ${isCute ? 'text-[#1A202C]' : 'text-white'}`}>{currentUser.name}</div>
+                  <div className="flex items-center gap-1.5 mt-0.5">
+                    <span className={`text-[11px] font-mono font-medium select-all ${isCute ? 'text-slate-700' : 'text-slate-200'}`}>
+                      {currentUser.email || 'binaryclub@akgec.ac.in'}
+                    </span>
+                    <button
+                      onClick={() => copyToClipboard(currentUser.email || 'binaryclub@akgec.ac.in')}
+                      className={`p-1 rounded transition text-xs flex items-center gap-1 border ${
+                        copiedEmail === (currentUser.email || 'binaryclub@akgec.ac.in')
+                          ? 'bg-emerald-500/20 text-emerald-600 border-emerald-500/40 font-bold'
+                          : isCute ? 'hover:bg-slate-100 text-slate-600 border-slate-300' : 'hover:bg-white/10 text-slate-300 border-slate-600'
+                      }`}
+                      title="Click to copy email address"
+                    >
+                      {copiedEmail === (currentUser.email || 'binaryclub@akgec.ac.in') ? (
+                        <>
+                          <Check className="w-3 h-3 text-emerald-500" />
+                          <span className="text-[10px] text-emerald-500 font-bold">Copied!</span>
+                        </>
+                      ) : (
+                        <Copy className="w-3 h-3" />
+                      )}
+                    </button>
+                  </div>
+                  <div className={`text-[10px] font-extrabold uppercase tracking-wide mt-0.5 ${isCute ? 'text-[#67A2C5]' : isTarget ? 'text-[#FFC193]' : isSage ? 'text-[#F3C3B2]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FCA311]'}`}>
+                    {currentUser.role}
+                  </div>
                 </div>
                 <button
                   onClick={handleLogout}
-                  className="ml-2 text-slate-400 hover:text-red-400 transition"
-                  title="Logout"
+                  className="ml-2 text-slate-400 hover:text-red-400 transition p-1 rounded-lg hover:bg-red-500/10"
+                  title="Logout (Automatically downloads Excel sheet record)"
                 >
                   <LogOut className="w-4 h-4" />
                 </button>
@@ -1566,7 +1613,18 @@ export default function Dashboard() {
                         <tr key={p.id} className={`transition ${isCute ? 'hover:bg-[#FFEBD3]/50 text-[#1A202C]' : isTarget ? 'hover:bg-slate-800/50' : isSage ? 'hover:bg-[#657166]/30' : isPurple ? 'hover:bg-[#6E3482]/30' : 'hover:bg-[#14213D]/40'}`}>
                           <td className="py-3.5 px-4">
                             <div className={`font-bold text-sm ${isCute ? 'text-[#1A202C]' : 'text-white'}`}>{p.name}</div>
-                            <div className={`text-[11px] ${isCute ? 'text-slate-500' : 'text-slate-400'}`}>{p.email}</div>
+                            <div className="flex items-center gap-1.5 mt-0.5">
+                              <span className={`text-[11px] font-mono break-all select-all ${isCute ? 'text-slate-600 font-medium' : 'text-slate-300'}`}>{p.email}</span>
+                              {p.email && (
+                                <button
+                                  onClick={() => copyToClipboard(p.email)}
+                                  className="text-slate-400 hover:text-emerald-400 transition p-0.5"
+                                  title="Copy Email"
+                                >
+                                  {copiedEmail === p.email ? <Check className="w-3 h-3 text-emerald-500" /> : <Copy className="w-3 h-3" />}
+                                </button>
+                              )}
+                            </div>
                           </td>
                           <td className={`py-3.5 px-4 font-mono font-bold ${isCute ? 'text-[#67A2C5]' : isTarget ? 'text-[#FF4D6D]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FCA311]'}`}>{p.rollNo}</td>
                           <td className={`py-3.5 px-4 ${isCute ? 'text-slate-700' : 'text-slate-200'}`}>
@@ -2358,8 +2416,33 @@ export default function Dashboard() {
 
               <div className="grid grid-cols-2 md:grid-cols-4 gap-3 text-xs">
                 <div className={`p-3 rounded-xl border space-y-1 ${isCute ? 'bg-white border-[#9BCEC1]/60' : isTarget ? 'bg-[#1F151B]/80 border-[#FF8383]/30' : isSage ? 'bg-[#1E271F]/80 border-[#99CDD8]/30' : isPurple ? 'bg-[#2B1138]/80 border-[#A56ABD]/30' : 'bg-black/80 border-[#FCA311]/20'}`}>
-                  <div className={`font-bold flex items-center gap-1.5 ${isCute ? 'text-[#67A2C5]' : isTarget ? 'text-[#FF3737]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FCA311]'}`}><Mail className="w-3.5 h-3.5" /> Email</div>
-                  <div className={`font-mono truncate ${isCute ? 'text-slate-700' : 'text-slate-200'}`}>{displayCand.email}</div>
+                  <div className={`font-bold flex items-center justify-between gap-1.5 ${isCute ? 'text-[#67A2C5]' : isTarget ? 'text-[#FF3737]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FCA311]'}`}>
+                    <span className="flex items-center gap-1.5"><Mail className="w-3.5 h-3.5" /> Email</span>
+                    {displayCand.email && (
+                      <button
+                        onClick={() => copyToClipboard(displayCand.email)}
+                        className={`p-1 rounded text-xs flex items-center gap-1 border transition ${
+                          copiedEmail === displayCand.email
+                            ? 'bg-emerald-500/20 text-emerald-600 border-emerald-500/40'
+                            : isCute ? 'hover:bg-slate-100 text-slate-600 border-slate-300' : 'hover:bg-slate-700 text-slate-300 border-slate-600'
+                        }`}
+                        title="Copy Email Address"
+                      >
+                        {copiedEmail === displayCand.email ? (
+                          <>
+                            <Check className="w-3.5 h-3.5 text-emerald-500" />
+                            <span className="text-[10px] font-bold text-emerald-500">Copied</span>
+                          </>
+                        ) : (
+                          <>
+                            <Copy className="w-3.5 h-3.5" />
+                            <span className="text-[10px]">Copy</span>
+                          </>
+                        )}
+                      </button>
+                    )}
+                  </div>
+                  <div className={`font-mono text-xs break-all select-all font-semibold ${isCute ? 'text-slate-700' : 'text-slate-200'}`}>{displayCand.email}</div>
                 </div>
                 <div className={`p-3 rounded-xl border space-y-1 ${isCute ? 'bg-white border-[#9BCEC1]/60' : isTarget ? 'bg-[#1F151B]/80 border-[#FF8383]/30' : isSage ? 'bg-[#1E271F]/80 border-[#99CDD8]/30' : isPurple ? 'bg-[#2B1138]/80 border-[#A56ABD]/30' : 'bg-black/80 border-[#FCA311]/20'}`}>
                   <div className={`font-bold flex items-center gap-1.5 ${isCute ? 'text-[#67A2C5]' : isTarget ? 'text-[#FF3737]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FCA311]'}`}><Phone className="w-3.5 h-3.5" /> Contact</div>

@@ -22,7 +22,7 @@ export async function POST(request: Request) {
       const token = signToken({
         id: 'user-binaryclub-admin',
         name: 'BINARYCLUB',
-        email: 'binaryclub@binaryclub.org',
+        email: 'binaryclub@akgec.ac.in',
         role: 'ADMIN',
       });
 
@@ -31,7 +31,7 @@ export async function POST(request: Request) {
         user: {
           id: 'user-binaryclub-admin',
           name: 'BINARYCLUB',
-          email: 'binaryclub@binaryclub.org',
+          email: 'binaryclub@akgec.ac.in',
           role: 'ADMIN',
         },
       });
