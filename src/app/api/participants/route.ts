@@ -25,23 +25,14 @@ export async function GET(request: Request) {
     });
 
     let participants: any[] = [];
-    if (activeCycle) {
-      const andConditions: any[] = [{ recruitmentCycleId: activeCycle.id }];
+    let totalCountInDb = 0;
 
-      if (search) {
-        andConditions.push({
-          OR: [
-            { name: { contains: search } },
-            { rollNo: { contains: search } },
-            { email: { contains: search } },
-            { contactNo: { contains: search } },
-            { technicalSkills: { contains: search } },
-            { skills: { contains: search } },
-            { primaryDomain: { contains: search } },
-            { branch: { contains: search } },
-          ],
-        });
-      }
+    if (activeCycle) {
+      totalCountInDb = await db.participant.count({
+        where: { recruitmentCycleId: activeCycle.id },
+      }).catch(() => 0);
+
+      const andConditions: any[] = [{ recruitmentCycleId: activeCycle.id }];
 
       if (branch && branch !== 'ALL') andConditions.push({ branch });
       if (section && section !== 'ALL') andConditions.push({ section });
@@ -72,10 +63,25 @@ export async function GET(request: Request) {
           finalResult: true,
         },
       });
+
+      if (search) {
+        const q = search.toLowerCase();
+        participants = participants.filter(
+          (p) =>
+            (p.name && p.name.toLowerCase().includes(q)) ||
+            (p.rollNo && p.rollNo.toLowerCase().includes(q)) ||
+            (p.email && p.email.toLowerCase().includes(q)) ||
+            (p.primaryDomain && p.primaryDomain.toLowerCase().includes(q)) ||
+            (p.technicalSkills && p.technicalSkills.toLowerCase().includes(q)) ||
+            (p.skills && p.skills.toLowerCase().includes(q)) ||
+            (p.branch && p.branch.toLowerCase().includes(q)) ||
+            (p.contactNo && p.contactNo.toLowerCase().includes(q))
+        );
+      }
     }
 
-    // Fallback to OFFICIAL_150_SHORTLIST (all 225 real candidates) if DB is empty/unseeded
-    if (participants.length === 0) {
+    // Fallback to OFFICIAL_150_SHORTLIST (all 225 real candidates) ONLY if DB has 0 participants overall
+    if (totalCountInDb === 0) {
       participants = OFFICIAL_150_SHORTLIST.map((s, idx) => ({
         id: `cand-${s.rollNo}`,
         recruitmentCycleId: activeCycle?.id || 'cycle-2026',

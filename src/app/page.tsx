@@ -380,17 +380,19 @@ export default function Dashboard() {
       if (yearFilter !== 'ALL') params.set('year', yearFilter);
 
       let fetchedList: Participant[] = [];
+      let successfullyFetchedFromApi = false;
       try {
         const res = await fetch(`/api/participants?${params.toString()}`);
         const data = await res.json();
-        if (data.participants && data.participants.length > 0) {
+        if (Array.isArray(data.participants)) {
           fetchedList = data.participants;
+          successfullyFetchedFromApi = true;
         }
       } catch {
         // network or serverless database fallback
       }
 
-      if (!fetchedList || fetchedList.length === 0) {
+      if (!successfullyFetchedFromApi) {
         fetchedList = convertShortlistToParticipants(OFFICIAL_150_SHORTLIST);
       }
 
