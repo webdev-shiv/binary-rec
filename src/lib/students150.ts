@@ -34,17 +34,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "harshmani.pandey2007@gmail.com",
-    "contactNo": "8318784543",
-    "instagramId": "harshmani_19",
-    "technicalSkills": "HTML, CSS, SQL, Python",
-    "projects": "Student Help Desk portal",
-    "contributionStrengths": "Public speaking, writing, technical management",
-    "whyBinaryClub": "To learn new things and interact with lovely seniors and peers.",
-    "eventIdeas": "Structured foundational coding workshops & hackathons",
-    "threeWords": "Extrovert, Happy, Innovative",
-    "projectLink": "https://drive.google.com/open?id=1ZjEeIC2xw6Xn"
+    "year": "2nd Year"
   },
   {
     "rank": 2,
@@ -57,17 +47,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "kanavgarg.0062@gmail.com",
-    "contactNo": "9876540062",
-    "instagramId": "@kanavgarg_062",
-    "linkedinId": "linkedin.com/in/kanavgarg-0062",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 3,
@@ -81,15 +61,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "kumarjainbharat5@gmail.com",
-    "contactNo": "8439158815",
-    "instagramId": "sbharatk7",
-    "technicalSkills": "C programming, Python, DSA in C++",
-    "contributionStrengths": "Technical & public speaking, event organizing",
-    "whyBinaryClub": "Networking in professional tech field and exploring club opportunities.",
-    "eventIdeas": "Inter-college hackathons and DSA workshops",
-    "threeWords": "Learner, Persistent, Implementer"
+    "year": "2nd Year"
   },
   {
     "rank": 4,
@@ -104,17 +76,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "garvtyagi.2044@gmail.com",
-    "contactNo": "9876012044",
-    "instagramId": "@garvtyagi_044",
-    "linkedinId": "linkedin.com/in/garvtyagi-2044",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 5,
@@ -128,15 +90,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "rishabh30122006@gmail.com",
-    "contactNo": "8630511803",
-    "instagramId": "rishabhh_chaudhary",
-    "technicalSkills": "C programming, HTML, CSS, Python",
-    "contributionStrengths": "Web dev skills and enthusiasm for learning",
-    "whyBinaryClub": "To boost my skills and realize my full potential in coding.",
-    "eventIdeas": "Competitive programming sprints and web dev challenges",
-    "threeWords": "Always ready to fly"
+    "year": "2nd Year"
   },
   {
     "rank": 6,
@@ -150,15 +104,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "Android Development"
     ],
-    "year": "2nd Year",
-    "email": "mishrarajanmishra51@gmail.com",
-    "contactNo": "8953910937",
-    "instagramId": "rajan_mishra_320",
-    "technicalSkills": "DSA in Java, Web Dev, Android",
-    "contributionStrengths": "Logic building, problem solving, team coordination",
-    "whyBinaryClub": "To transition into a core developer and build campus projects.",
-    "eventIdeas": "Structured foundational coding series",
-    "threeWords": "Driven, Logical, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 7,
@@ -171,16 +117,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "arpitpandey2567@gmail.com",
-    "contactNo": "9369290261",
-    "instagramId": "arpit18_1",
-    "technicalSkills": "DSA in Java, Web Design",
-    "contributionStrengths": "Web designing, project idea execution",
-    "whyBinaryClub": "To learn teamwork and gain practical development experience.",
-    "eventIdeas": "Pre-hackathon technical workshops",
-    "threeWords": "Curious, Relentless, Adaptive",
-    "projectLink": "https://drive.google.com/open?id=1s7JdPb67GJk"
+    "year": "2nd Year"
   },
   {
     "rank": 8,
@@ -194,17 +131,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "kartikeyawasthi69@gmail.com",
-    "contactNo": "8178915724",
-    "instagramId": "enigma.nimbus7",
-    "linkedinId": "linkedin.com/in/kartikeyawasthi",
-    "technicalSkills": "Java (Advanced), Backend Systems, C++",
-    "contributionStrengths": "Backend architecture, code reviews, problem solving",
-    "whyBinaryClub": "To collaborate with ambitious builders and participate in hackathons.",
-    "eventIdeas": "12-24 hour domain specific sprint hackathons",
-    "threeWords": "Adaptable, Ambitious, Collaborative",
-    "projectLink": "https://drive.google.com/open?id=1B5CTcMDbUc"
+    "year": "2nd Year"
   },
   {
     "rank": 9,
@@ -219,14 +146,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "anuragshrivastava2701@gmail.com",
-    "contactNo": "9369416896",
-    "technicalSkills": "C, Python, Event Planning",
-    "contributionStrengths": "Programming and event organization",
-    "whyBinaryClub": "To surround myself with active coders and build projects.",
-    "eventIdeas": "Reverse Engineering workshops & coding contests",
-    "threeWords": "Innovative, Collaborative, Driven"
+    "year": "2nd Year"
   },
   {
     "rank": 10,
@@ -239,15 +159,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "krishnagar0055@gmail.com",
-    "contactNo": "9528144828",
-    "instagramId": "Krish_gurjar_chhuchhai",
-    "technicalSkills": "C Programming, Web Development",
-    "contributionStrengths": "Event management, teamwork, communication",
-    "whyBinaryClub": "To learn new technologies and mentor fellow students.",
-    "eventIdeas": "Beginner-friendly coding workshops for 1st years",
-    "threeWords": "Energetic, Responsible, Team-oriented"
+    "year": "2nd Year"
   },
   {
     "rank": 11,
@@ -261,16 +173,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "richaagnihotri2005@gmail.com",
-    "contactNo": "9935108270",
-    "instagramId": "Richa____agnihotri",
-    "technicalSkills": "Web Dev, AI/ML, Mini projects",
-    "contributionStrengths": "Time management, coding execution",
-    "whyBinaryClub": "To enhance technical skills and contribute best efforts to club projects.",
-    "eventIdeas": "Web design quiz & live coding competition",
-    "threeWords": "Capable, Dedicated, Passionate",
-    "projectLink": "https://drive.google.com/open?id=1asSvN5y2O64"
+    "year": "2nd Year"
   },
   {
     "rank": 12,
@@ -283,15 +186,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "himanshurajput3177@gmail.com",
-    "contactNo": "8840320380",
-    "instagramId": "Himxnshu096",
-    "technicalSkills": "C, HTML, CSS, Python",
-    "contributionStrengths": "Problem solving, teamwork, quick learning",
-    "whyBinaryClub": "To improve coding skills and gain technical exposure.",
-    "eventIdeas": "Beginner-friendly coding challenge series",
-    "threeWords": "Curious, Dedicated, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 13,
@@ -304,16 +199,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "Sanskaartushar2007@gmail.com",
-    "contactNo": "7452925080",
-    "instagramId": "Sanskarbhardwaj31",
-    "technicalSkills": "HTML, CSS, JavaScript, React",
-    "contributionStrengths": "Frontend UI design, poster making, web development",
-    "whyBinaryClub": "To learn from seniors and build real-world web apps.",
-    "eventIdeas": "6-12 hour Mini Hackathons & Tech Treasure Hunt",
-    "threeWords": "Curious, Creative, Driven",
-    "projectLink": "https://drive.google.com/open?id=1cYvBnRlc5ciH"
+    "year": "2nd Year"
   },
   {
     "rank": 14,
@@ -326,17 +212,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "vanshkushwaha.0123@gmail.com",
-    "contactNo": "9876120123",
-    "instagramId": "@vanshkushwaha_123",
-    "linkedinId": "linkedin.com/in/vanshkushwaha-0123",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 15,
@@ -349,15 +225,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "vanshikapal0106@gmail.com",
-    "contactNo": "7838456651",
-    "instagramId": "Vanshika.0107_",
-    "technicalSkills": "HTML, CSS, JS, Python, C",
-    "contributionStrengths": "Video editing, UI designing, content creation",
-    "whyBinaryClub": "To expand practical development and design skills.",
-    "eventIdeas": "Hackathon focused on solving real-world campus problems",
-    "threeWords": "Curious, Resourceful, Adaptive"
+    "year": "2nd Year"
   },
   {
     "rank": 16,
@@ -370,15 +238,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "nitishkumarsingh.cs@gmail.com",
-    "contactNo": "9305175477",
-    "technicalSkills": "React, Next.js, TypeScript, JavaScript",
-    "contributionStrengths": "Fullstack web development, problem solving",
-    "whyBinaryClub": "To work with motivated developers and build large-scale apps.",
-    "eventIdeas": "Hands-on coding events & debugging challenges",
-    "threeWords": "Curious, Builder, Persistent",
-    "projectLink": "https://drive.google.com/open?id=10NbeN0f7RfJ"
+    "year": "2nd Year"
   },
   {
     "rank": 17,
@@ -392,15 +252,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "janvichoudha008@gmail.com",
-    "contactNo": "7906232255",
-    "instagramId": "janvii_250",
-    "technicalSkills": "C programming, Python, Data Structures",
-    "contributionStrengths": "Problem solving, logical thinking",
-    "whyBinaryClub": "To improve programming skills and participate in contests.",
-    "eventIdeas": "Regular coding contests & beginner-friendly DSA sessions",
-    "threeWords": "Curious, Dedicated, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 18,
@@ -413,14 +265,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "Greshityagi123@gmail.com",
-    "contactNo": "9548768562",
-    "technicalSkills": "C++, Python, HTML, Problem solving",
-    "contributionStrengths": "Competitive coding, public speaking",
-    "whyBinaryClub": "To sharpen problem solving and learn from experienced coders.",
-    "eventIdeas": "DSA workshops and beginner coding contests",
-    "threeWords": "Curious, Dedicated, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 19,
@@ -434,15 +279,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "harshit12470@gmail.com",
-    "contactNo": "7579764942",
-    "instagramId": "harxtx9",
-    "technicalSkills": "Java, OOPs, DSA, C++",
-    "contributionStrengths": "Java development, algorithmic optimization",
-    "whyBinaryClub": "To sharpen programming skills through contests.",
-    "eventIdeas": "Coding sprints & DSA workshops",
-    "threeWords": "Innovative, Passionate, Creative"
+    "year": "2nd Year"
   },
   {
     "rank": 20,
@@ -456,16 +293,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "vashisthkumud24@gmail.com",
-    "contactNo": "9557819747",
-    "instagramId": "itz_kunnu24",
-    "technicalSkills": "C, C++, Python, HTML, CSS",
-    "contributionStrengths": "Programming, problem solving, UI design",
-    "whyBinaryClub": "To improve technical skills and participate in ML activities.",
-    "eventIdeas": "Debugging challenges & AI model workshops",
-    "threeWords": "Curious, Hardworking, Adaptable",
-    "projectLink": "https://drive.google.com/open?id=1qcvCPLYVe4lO"
+    "year": "2nd Year"
   },
   {
     "rank": 21,
@@ -479,16 +307,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "shivamyadav50510@gmail.com",
-    "contactNo": "9026113647",
-    "instagramId": "shivam__2556",
-    "technicalSkills": "Python, C, FastAPI, PostgreSQL, React",
-    "contributionStrengths": "Backend microservices architecture, API design",
-    "whyBinaryClub": "To improve technical abilities and work on club backends.",
-    "eventIdeas": "Backend architecture masterclass & API design challenge",
-    "threeWords": "Curious, Hardworking, Adaptable",
-    "projectLink": "https://drive.google.com/open?id=1mMEmmn0s5"
+    "year": "2nd Year"
   },
   {
     "rank": 22,
@@ -501,16 +320,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "Anushkasaraswat31@gmail.com",
-    "contactNo": "9310321295",
-    "instagramId": "Pvtt.annu.31",
-    "technicalSkills": "Python basics, Web development",
-    "contributionStrengths": "Public speaking, communication, event hosting",
-    "whyBinaryClub": "To explore technical events and enhance coding skills.",
-    "eventIdeas": "Team quiz competitions & prompt engineering wars",
-    "threeWords": "Passionate, Good Communicator, Disciplined",
-    "projectLink": "https://drive.google.com/open?id=1OinpaU5UJ7-R"
+    "year": "2nd Year"
   },
   {
     "rank": 23,
@@ -523,16 +333,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "suyashgupta026@gmail.com",
-    "contactNo": "9235123113",
-    "instagramId": "suyashg._",
-    "technicalSkills": "C, Python, Cloud, AI Agent automation",
-    "contributionStrengths": "Technical mentoring, coding, AI automation",
-    "whyBinaryClub": "To build production systems and conduct AI workshops.",
-    "eventIdeas": "AI & Agentic Workflows Hackathon & Resume workshops",
-    "threeWords": "Curious, Relentless, Adaptive",
-    "projectLink": "https://drive.google.com/open?id=1eOnp1IPL46ji"
+    "year": "2nd Year"
   },
   {
     "rank": 24,
@@ -545,16 +346,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "shubhammaurya0308@gmail.com",
-    "contactNo": "9310057182",
-    "instagramId": "shubhammaurya0308",
-    "technicalSkills": "Java, C, Python, Web Dev",
-    "contributionStrengths": "Problem solving, willingness to learn",
-    "whyBinaryClub": "To improve technical skills and build team projects.",
-    "eventIdeas": "Senior-guided coding workshops",
-    "threeWords": "Curious, Persistent, Disciplined",
-    "projectLink": "https://drive.google.com/open?id=1Ro0pxiUkQ89"
+    "year": "2nd Year"
   },
   {
     "rank": 25,
@@ -567,15 +359,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "swastikkumarprajapati@gmail.com",
-    "contactNo": "7065054152",
-    "technicalSkills": "Java, Android Dev, Web Dev",
-    "contributionStrengths": "Public speaking, videography, tech support",
-    "whyBinaryClub": "To grab opportunities and contribute to college events.",
-    "eventIdeas": "Discord bot & real-time hackathons",
-    "threeWords": "Swastik, Nice, Dynamic",
-    "projectLink": "https://drive.google.com/open?id=1V2J7Onn2Thq"
+    "year": "2nd Year"
   },
   {
     "rank": 26,
@@ -589,16 +373,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "anshk579602@gmail.com",
-    "contactNo": "8923067195",
-    "instagramId": "ansh_tanwar_315",
-    "technicalSkills": "Python, Google AI essentials, Prompting",
-    "contributionStrengths": "AI prompting, web development",
-    "whyBinaryClub": "To improve technical skills and build AI applications.",
-    "eventIdeas": "Prompt engineering challenge & hackathons",
-    "threeWords": "Curious, Dedicated, Innovative",
-    "projectLink": "https://drive.google.com/open?id=1fRbfpo86ZwU"
+    "year": "2nd Year"
   },
   {
     "rank": 27,
@@ -611,15 +386,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "shivam3007k@gmail.com",
-    "contactNo": "9315755951",
-    "technicalSkills": "HTML, CSS, JavaScript, Bootstrap, React",
-    "contributionStrengths": "Frontend UI development",
-    "whyBinaryClub": "To improve frontend skills and build campus web applications.",
-    "eventIdeas": "Frontend UI design sprints",
-    "threeWords": "Frontend Coder, Driven, Enthusiastic",
-    "projectLink": "https://drive.google.com/open?id=1DpaY7_60mJ"
+    "year": "2nd Year"
   },
   {
     "rank": 28,
@@ -633,16 +400,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "Android Development"
     ],
-    "year": "2nd Year",
-    "email": "aayuhehcodes@gmail.com",
-    "contactNo": "6398636683",
-    "instagramId": "aayuhehehcodes",
-    "technicalSkills": "C, C++, Android Dev, Web Dev",
-    "contributionStrengths": "Problem-solving, Amazon Clone project builder",
-    "whyBinaryClub": "To take coding skills from classroom theory to real production.",
-    "eventIdeas": "Component-building coding challenge",
-    "threeWords": "Analytical, Adaptive, Precise",
-    "projectLink": "https://drive.google.com/open?id=1_g6j-A-3NaOo"
+    "year": "2nd Year"
   },
   {
     "rank": 29,
@@ -656,16 +414,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "devparashar104@gmail.com",
-    "contactNo": "9105753347",
-    "instagramId": "devparashar104",
-    "technicalSkills": "Python, ML algorithms, Smart Library project",
-    "contributionStrengths": "Mentoring juniors, system architecture",
-    "whyBinaryClub": "To stay active in AI development and lead projects.",
-    "eventIdeas": "Motivation & AI technical seminars",
-    "threeWords": "Curious, Hardworking, Motivated",
-    "projectLink": "https://drive.google.com/open?id=1moEscyxxSlfg"
+    "year": "2nd Year"
   },
   {
     "rank": 30,
@@ -679,16 +428,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "palakchauhan16032008@gmail.com",
-    "contactNo": "8448725228",
-    "instagramId": "palakchauhann2024",
-    "technicalSkills": "C programming (NPTEL Elite), Competitive coding",
-    "contributionStrengths": "Strategic problem solving, coding fundamentals",
-    "whyBinaryClub": "To learn from seniors and compete in tech events.",
-    "eventIdeas": "Fair same-year coding contests",
-    "threeWords": "Passionate, Curious, Determined",
-    "projectLink": "https://drive.google.com/open?id=1z5jI4weL_IZeA"
+    "year": "2nd Year"
   },
   {
     "rank": 31,
@@ -702,15 +442,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "amritbih2006@gmail.com",
-    "contactNo": "7352537409",
-    "instagramId": "amritsingh_14",
-    "technicalSkills": "C, DSA in C++",
-    "contributionStrengths": "Teamwork, adaptability, problem solving",
-    "whyBinaryClub": "To gain practical exposure and learn from experienced peers.",
-    "eventIdeas": "Beginner-friendly coding events",
-    "threeWords": "Curious, Determined, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 32,
@@ -724,15 +456,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "chaudharyananya267@gmail.com",
-    "contactNo": "7906432818",
-    "instagramId": "ananyachoudhary8812a",
-    "technicalSkills": "C, HTML, CSS, JavaScript basics",
-    "contributionStrengths": "Designing, web development",
-    "whyBinaryClub": "To improve technical skills and build real projects.",
-    "eventIdeas": "Beginner-friendly coding contests & hackathons",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 33,
@@ -746,15 +470,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "Android Development"
     ],
-    "year": "2nd Year",
-    "email": "raishivansh971@gmail.com",
-    "contactNo": "7355998973",
-    "instagramId": "_shivansh_rai_",
-    "technicalSkills": "Web Dev, Android Dev",
-    "contributionStrengths": "Hardwork, dedication, commitment",
-    "whyBinaryClub": "To participate in regular tech events.",
-    "eventIdeas": "Regular technical workshops",
-    "threeWords": "Hardworking, Dedicated, Passionate"
+    "year": "2nd Year"
   },
   {
     "rank": 34,
@@ -768,15 +484,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "Android Development"
     ],
-    "year": "2nd Year",
-    "email": "shivangs996@gmail.com",
-    "contactNo": "7011952989",
-    "instagramId": "Shivang_0107",
-    "technicalSkills": "Basic C/C++, Python, Android",
-    "contributionStrengths": "Quick learner, adaptability",
-    "whyBinaryClub": "To improve technical skills and build projects.",
-    "eventIdeas": "Android app development sprint",
-    "threeWords": "Communicative, Reliable, Quick Learner"
+    "year": "2nd Year"
   },
   {
     "rank": 35,
@@ -789,15 +497,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "saksham0611a@gmail.com",
-    "contactNo": "8318850282",
-    "instagramId": "Saosham_06_11",
-    "technicalSkills": "C++ programming, Social media",
-    "contributionStrengths": "Social media handling, video editing",
-    "whyBinaryClub": "To gain hands-on technical skills.",
-    "eventIdeas": "C++ coding ladder",
-    "threeWords": "Determined, Focused, Eager"
+    "year": "2nd Year"
   },
   {
     "rank": 36,
@@ -810,16 +510,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "urvashichaudharyc@gmail.com",
-    "contactNo": "7065336511",
-    "instagramId": "Eupphorias",
-    "technicalSkills": "Frontend Web Dev, HTML/CSS/JS",
-    "contributionStrengths": "Management, UI design, public speaking",
-    "whyBinaryClub": "To gain real development experience.",
-    "eventIdeas": "Campus Technical Fest",
-    "threeWords": "Passionate, Confident, Moody",
-    "projectLink": "https://drive.google.com/open?id=1OAdlYbT_UBf"
+    "year": "2nd Year"
   },
   {
     "rank": 37,
@@ -834,15 +525,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "niyati.jn08@gmail.com",
-    "contactNo": "9368213141",
-    "instagramId": "niyati.jn08",
-    "technicalSkills": "Python, Cloud computing, Web Dev",
-    "contributionStrengths": "Cloud architecture, Python scripting",
-    "whyBinaryClub": "To collaborate on projects and compete in hackathons.",
-    "eventIdeas": "Hackathons & Cloud deployment masterclasses",
-    "threeWords": "Creative, Curious, Determined"
+    "year": "2nd Year"
   },
   {
     "rank": 38,
@@ -855,15 +538,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ronit7pal@gmail.com",
-    "contactNo": "8808815045",
-    "instagramId": "rp_______7",
-    "technicalSkills": "Fullstack MERN Web Development",
-    "contributionStrengths": "Fullstack web engineering",
-    "whyBinaryClub": "To build production web applications for the campus.",
-    "eventIdeas": "Fullstack 24-hour coding marathon",
-    "threeWords": "Curious, Practical, Consistent"
+    "year": "2nd Year"
   },
   {
     "rank": 39,
@@ -878,15 +553,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "Vishnudwivedi440@gmail.com",
-    "contactNo": "9211502815",
-    "instagramId": "not_your_tushar25",
-    "technicalSkills": "C++, DSA, Cyber security, Cloud",
-    "contributionStrengths": "Communication, problem solving",
-    "whyBinaryClub": "To gain practical exposure and build security tools.",
-    "eventIdeas": "Cyber security CTF competition",
-    "threeWords": "Curious, Creative, Credible"
+    "year": "2nd Year"
   },
   {
     "rank": 40,
@@ -900,15 +567,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "ukeshari233@gmail.com",
-    "contactNo": "7565911484",
-    "instagramId": "data_dost",
-    "technicalSkills": "Python, PyTorch, LangChain, RAG Chatbot, GenAI",
-    "contributionStrengths": "AI model training, RAG architecture",
-    "whyBinaryClub": "To spread AI technical knowledge across campus.",
-    "eventIdeas": "Generative AI & LLM Workshops",
-    "threeWords": "Innovative, Creative, Logical"
+    "year": "2nd Year"
   },
   {
     "rank": 41,
@@ -922,15 +581,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "t.tyagi2008@gmail.com",
-    "contactNo": "9818579577",
-    "instagramId": "tanishktyagi__",
-    "technicalSkills": "C, HTML, CSS, JavaScript",
-    "contributionStrengths": "Web frontend basics, learning drive",
-    "whyBinaryClub": "To enhance coding skills and technical potential.",
-    "eventIdeas": "Beginner-friendly web dev coding sprint",
-    "threeWords": "Learner, Confident, Dedicated"
+    "year": "2nd Year"
   },
   {
     "rank": 42,
@@ -943,17 +594,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "triptisharma.0368@gmail.com",
-    "contactNo": "9876100368",
-    "instagramId": "@triptisharma_368",
-    "linkedinId": "linkedin.com/in/triptisharma-0368",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 43,
@@ -966,15 +607,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "gauravkardam9286@gmail.com",
-    "contactNo": "9259571642",
-    "instagramId": "Iamgauravkardam",
-    "technicalSkills": "C, Python, Java, DSA",
-    "contributionStrengths": "Coding tests & technical support",
-    "whyBinaryClub": "To learn new things and participate in hackathons.",
-    "eventIdeas": "Coding test contests",
-    "threeWords": "Focused, Determined, Learner"
+    "year": "2nd Year"
   },
   {
     "rank": 44,
@@ -988,16 +621,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "Vaibhavsharma0820074@gmail.com",
-    "contactNo": "8130545006",
-    "instagramId": "Tech.vaibhav",
-    "technicalSkills": "IIT Delhi & Microsoft Hackathon Winner, Web Dev, AI",
-    "contributionStrengths": "Hackathon building, AI & Agentic workflows",
-    "whyBinaryClub": "To collaborate with passionate peers and build impactful tech.",
-    "eventIdeas": "AI & Agentic Workflows Hackathon",
-    "threeWords": "Curious, Driven, Innovative",
-    "projectLink": "https://drive.google.com/open?id=1-9k4EvmjxfZrS"
+    "year": "2nd Year"
   },
   {
     "rank": 45,
@@ -1010,16 +634,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "pragyagupta.463@gmail.com",
-    "contactNo": "7053246169",
-    "instagramId": "Glitchinhercode",
-    "technicalSkills": "Games & mini apps, Flutter, Android, C",
-    "contributionStrengths": "Mobile app architecture, creative coding",
-    "whyBinaryClub": "To strengthen skill set and add to club projects.",
-    "eventIdeas": "Game dev & Flutter bootcamps",
-    "threeWords": "Voracious, Inventive, Relentless",
-    "projectLink": "https://drive.google.com/open?id=1RCCkYWXqEX"
+    "year": "2nd Year"
   },
   {
     "rank": 46,
@@ -1032,14 +647,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "shubhamkumar8668g@gmail.com",
-    "contactNo": "9234509292",
-    "technicalSkills": "React, JavaScript, TailwindCSS, Freelancer",
-    "contributionStrengths": "Real frontend development",
-    "whyBinaryClub": "To connect with fellow developers.",
-    "eventIdeas": "Real-world web dev hackathons",
-    "threeWords": "Actual Developer, Genuine, Consistent"
+    "year": "2nd Year"
   },
   {
     "rank": 47,
@@ -1052,17 +660,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "atishyadav.0035@gmail.com",
-    "contactNo": "9876550035",
-    "instagramId": "@atishyadav_035",
-    "linkedinId": "linkedin.com/in/atishyadav-0035",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 48,
@@ -1076,17 +674,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "harshmishra.0144@gmail.com",
-    "contactNo": "9876100144",
-    "instagramId": "@harshmishra_144",
-    "linkedinId": "linkedin.com/in/harshmishra-0144",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 49,
@@ -1101,16 +689,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "tusharkashyap03007@gmail.com",
-    "contactNo": "9509906062",
-    "instagramId": "tushar.kashyap__",
-    "technicalSkills": "C, C++, Python, 3D Modeling, Machine Learning",
-    "contributionStrengths": "Winner of The Great Escape competition, 3D modeling, algorithm optimization",
-    "whyBinaryClub": "To collaborate with like-minded peers and lead technical projects.",
-    "eventIdeas": "Live competitive coding contests & hackathons",
-    "threeWords": "Curious, Persistent, Collaborative",
-    "projectLink": "https://drive.google.com/open?id=1EeqiOAPiLqal"
+    "year": "2nd Year"
   },
   {
     "rank": 50,
@@ -1123,17 +702,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "yashikasharma.0409@gmail.com",
-    "contactNo": "9876100409",
-    "instagramId": "@yashikasharma_409",
-    "linkedinId": "linkedin.com/in/yashikasharma-0409",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 51,
@@ -1148,17 +717,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "krishna.0005@gmail.com",
-    "contactNo": "9876000005",
-    "instagramId": "@krishna_005",
-    "linkedinId": "linkedin.com/in/krishna-0005",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 52,
@@ -1171,17 +730,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "devsrivastava.0117@gmail.com",
-    "contactNo": "9876100117",
-    "instagramId": "@devsrivastava_117",
-    "linkedinId": "linkedin.com/in/devsrivastava-0117",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 53,
@@ -1194,17 +743,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "harsh.0029@gmail.com",
-    "contactNo": "9876130029",
-    "instagramId": "@harsh_029",
-    "linkedinId": "linkedin.com/in/harsh-0029",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 54,
@@ -1217,17 +756,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "vaishnavijha.0385@gmail.com",
-    "contactNo": "9876100385",
-    "instagramId": "@vaishnavijha_385",
-    "linkedinId": "linkedin.com/in/vaishnavijha-0385",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 55,
@@ -1241,17 +770,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "abhijeettomar.0006@gmail.com",
-    "contactNo": "9876100006",
-    "instagramId": "@abhijeettomar_006",
-    "linkedinId": "linkedin.com/in/abhijeettomar-0006",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 56,
@@ -1264,17 +783,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "aryanpandey.0078@gmail.com",
-    "contactNo": "9876100078",
-    "instagramId": "@aryanpandey_078",
-    "linkedinId": "linkedin.com/in/aryanpandey-0078",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 57,
@@ -1288,17 +797,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "khwaish.0168@gmail.com",
-    "contactNo": "9876530168",
-    "instagramId": "@khwaish_168",
-    "linkedinId": "linkedin.com/in/khwaish-0168",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 58,
@@ -1311,17 +810,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "varshikachoudhary.0130@gmail.com",
-    "contactNo": "9876120130",
-    "instagramId": "@varshikachoudhary_130",
-    "linkedinId": "linkedin.com/in/varshikachoudhary-0130",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 59,
@@ -1334,17 +823,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anmoljawla.0016@gmail.com",
-    "contactNo": "9876120016",
-    "instagramId": "@anmoljawla_016",
-    "linkedinId": "linkedin.com/in/anmoljawla-0016",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 60,
@@ -1358,17 +837,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "madhursinghal.0064@gmail.com",
-    "contactNo": "9876120064",
-    "instagramId": "@madhursinghal_064",
-    "linkedinId": "linkedin.com/in/madhursinghal-0064",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 61,
@@ -1381,17 +850,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "nehadixit.0203@gmail.com",
-    "contactNo": "9876530203",
-    "instagramId": "@nehadixit_203",
-    "linkedinId": "linkedin.com/in/nehadixit-0203",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 62,
@@ -1405,17 +864,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "vipultyagi.0133@gmail.com",
-    "contactNo": "9876540133",
-    "instagramId": "@vipultyagi_133",
-    "linkedinId": "linkedin.com/in/vipultyagi-0133",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 63,
@@ -1428,17 +877,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "tanvimishra.0116@gmail.com",
-    "contactNo": "9876120116",
-    "instagramId": "@tanvimishra_116",
-    "linkedinId": "linkedin.com/in/tanvimishra-0116",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 64,
@@ -1451,17 +890,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "nabyanoor.0076@gmail.com",
-    "contactNo": "9876120076",
-    "instagramId": "@nabyanoor_076",
-    "linkedinId": "linkedin.com/in/nabyanoor-0076",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 65,
@@ -1476,17 +905,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "ashutoshgiri.0089@gmail.com",
-    "contactNo": "9876530089",
-    "instagramId": "@ashutoshgiri_089",
-    "linkedinId": "linkedin.com/in/ashutoshgiri-0089",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 66,
@@ -1499,17 +918,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "luckykumargupta.0052@gmail.com",
-    "contactNo": "9876310052",
-    "instagramId": "@luckykumargupta_052",
-    "linkedinId": "linkedin.com/in/luckykumargupta-0052",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 67,
@@ -1522,17 +931,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ambikatyagi.0044@gmail.com",
-    "contactNo": "9876100044",
-    "instagramId": "@ambikatyagi_044",
-    "linkedinId": "linkedin.com/in/ambikatyagi-0044",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 68,
@@ -1546,17 +945,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Cloud Computing",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "namantyagi.0222@gmail.com",
-    "contactNo": "9876100222",
-    "instagramId": "@namantyagi_222",
-    "linkedinId": "linkedin.com/in/namantyagi-0222",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 69,
@@ -1570,17 +959,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "aanchaltiwari.0003@gmail.com",
-    "contactNo": "9876530003",
-    "instagramId": "@aanchaltiwari_003",
-    "linkedinId": "linkedin.com/in/aanchaltiwari-0003",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 70,
@@ -1593,15 +972,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "adityapandey9454@gmail.com",
-    "contactNo": "9454731242",
-    "instagramId": "adityapandey9454",
-    "technicalSkills": "Fullstack Web Dev, College Portal Builder",
-    "contributionStrengths": "Fullstack engineering, public speaking",
-    "whyBinaryClub": "To be around people who build things.",
-    "eventIdeas": "Campus problem-solving hackathons",
-    "threeWords": "Persistent, Logical, Driven"
+    "year": "2nd Year"
   },
   {
     "rank": 71,
@@ -1615,15 +986,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "yadavprabhatkumar367@gmail.com",
-    "contactNo": "7084334914",
-    "technicalSkills": "LeetCode 185+ Solved (DSA in C++)",
-    "contributionStrengths": "Algorithm optimization, problem solving",
-    "whyBinaryClub": "To grow as a competitive programmer.",
-    "eventIdeas": "Weekly CP contests",
-    "threeWords": "Hardworking, Algorithmic, Focused",
-    "projectLink": "https://drive.google.com/open?id=1bd3OVM44SM"
+    "year": "2nd Year"
   },
   {
     "rank": 72,
@@ -1636,15 +999,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "eduaashutosh@gmail.com",
-    "contactNo": "9557686186",
-    "instagramId": "bettercallaashutosh",
-    "technicalSkills": "C, Python, AI/ML, Web Dev",
-    "contributionStrengths": "Social media handling, tech management",
-    "whyBinaryClub": "To build skills and gain project exposure.",
-    "eventIdeas": "Tech exposure hackathons",
-    "threeWords": "Enthusiast, Stand-out, Intellectual"
+    "year": "2nd Year"
   },
   {
     "rank": 73,
@@ -1657,17 +1012,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "rishabhseth.0281@gmail.com",
-    "contactNo": "9876100281",
-    "instagramId": "@rishabhseth_281",
-    "linkedinId": "linkedin.com/in/rishabhseth-0281",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 74,
@@ -1680,17 +1025,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "qaziayan.0269@gmail.com",
-    "contactNo": "9876100269",
-    "instagramId": "@qaziayan_269",
-    "linkedinId": "linkedin.com/in/qaziayan-0269",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 75,
@@ -1703,15 +1038,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ayushsinghnew1008@gmail.com",
-    "contactNo": "9250392700",
-    "instagramId": "ayushsinghrajput245",
-    "technicalSkills": "C, Python, Web Dev",
-    "contributionStrengths": "Teamwork, creative thinking, basic coding",
-    "whyBinaryClub": "It gives students opportunity to show their talent.",
-    "eventIdeas": "Coding competitions & hackathons",
-    "threeWords": "Idea-full, Hardworking, Highly Motivated"
+    "year": "2nd Year"
   },
   {
     "rank": 76,
@@ -1724,16 +1051,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "a33010171@gmail.com",
-    "contactNo": "8417858592",
-    "instagramId": "avni_s_h",
-    "technicalSkills": "MERN Stack, Node.js, Express, MongoDB",
-    "contributionStrengths": "Web development, hackathon organizing",
-    "whyBinaryClub": "To gain practical building experience.",
-    "eventIdeas": "Short 6-hour hackathons & dev sprints",
-    "threeWords": "Curious, Observer, Builder",
-    "projectLink": "https://drive.google.com/open?id=18TitaljcG0pj3"
+    "year": "2nd Year"
   },
   {
     "rank": 77,
@@ -1746,16 +1064,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "kartikumar7830@gmail.com",
-    "contactNo": "7830242486",
-    "instagramId": "kartik_daksh_007",
-    "technicalSkills": "HTML, CSS, JS, C, Python",
-    "contributionStrengths": "Python scripts, web development",
-    "whyBinaryClub": "To improve technical skills.",
-    "eventIdeas": "Coding challenges & hackathons",
-    "threeWords": "Curious, Hardworking, Consistent",
-    "projectLink": "https://drive.google.com/open?id=1f3av9bgnHyg"
+    "year": "2nd Year"
   },
   {
     "rank": 78,
@@ -1769,15 +1078,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "Kritikaa967@gmail.com",
-    "contactNo": "8586025050",
-    "technicalSkills": "SQL, Excel, Python, Data Analysis",
-    "contributionStrengths": "Data analytics, UI design",
-    "whyBinaryClub": "To improve technical and design skills.",
-    "eventIdeas": "Hands-on coding & data workshops",
-    "threeWords": "Creative, Sincere, Adaptable",
-    "projectLink": "https://drive.google.com/open?id=1DgJhuOi1cHA"
+    "year": "2nd Year"
   },
   {
     "rank": 79,
@@ -1791,17 +1092,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "sameer.0260@gmail.com",
-    "contactNo": "9876530260",
-    "instagramId": "@sameer_260",
-    "linkedinId": "linkedin.com/in/sameer-0260",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 80,
@@ -1815,17 +1106,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "akshitasharma4057@gmail.com",
-    "contactNo": "8287081191",
-    "instagramId": "akshitaaaa._.21",
-    "linkedinId": "akshita_k1607",
-    "technicalSkills": "C, Python, Coding, Competitive Programming",
-    "projects": "Hands-on coding projects and LeetCode problem solving",
-    "contributionStrengths": "Coding skills, thoughtful approach, and teamwork",
-    "whyBinaryClub": "To enhance my coding skills, learn from seniors, and participate in hackathons.",
-    "eventIdeas": "Beginner-friendly coding workshops and contests",
-    "threeWords": "Curious, Thoughtful, Driven"
+    "year": "2nd Year"
   },
   {
     "rank": 81,
@@ -1838,17 +1119,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "adityasharma.0037@gmail.com",
-    "contactNo": "9876100037",
-    "instagramId": "@adityasharma_037",
-    "linkedinId": "linkedin.com/in/adityasharma-0037",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 82,
@@ -1862,15 +1133,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "sumitchauhan3008@gmail.com",
-    "contactNo": "7042485861",
-    "instagramId": "thakur_sumit.chauhan",
-    "technicalSkills": "C, HTML, Web Dev, AI/ML",
-    "contributionStrengths": "Technical capability, hard work",
-    "whyBinaryClub": "To gain technical knowledge.",
-    "eventIdeas": "AI hackathon & Cybersecurity hacks",
-    "threeWords": "Capable, Hardworking, Helpful"
+    "year": "2nd Year"
   },
   {
     "rank": 83,
@@ -1884,15 +1147,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "alianwarali419@gmail.com",
-    "contactNo": "8467915174",
-    "instagramId": "seenu_.08",
-    "technicalSkills": "C, Java, HTML, CSS, CP",
-    "contributionStrengths": "Web technologies, competitive programming",
-    "whyBinaryClub": "To take coding skills to next level.",
-    "eventIdeas": "Pre-Hackathon Warmups",
-    "threeWords": "Adaptive, Candid, Scalable"
+    "year": "2nd Year"
   },
   {
     "rank": 84,
@@ -1906,16 +1161,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Cloud Computing",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ujjawalthakur896@gmail.com",
-    "contactNo": "7906198523",
-    "instagramId": "ujjawal_7906",
-    "technicalSkills": "HTML, CSS, Bootstrap, AWS Cloud Workshop",
-    "contributionStrengths": "Web development, social media handling",
-    "whyBinaryClub": "To improve technical skills and build projects.",
-    "eventIdeas": "Regular beginner-friendly coding sessions",
-    "threeWords": "Curious, Creative, Adaptable",
-    "projectLink": "https://drive.google.com/open?id=1gtFMhyVwHd"
+    "year": "2nd Year"
   },
   {
     "rank": 85,
@@ -1928,17 +1174,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "mahiverma.0064@gmail.com",
-    "contactNo": "9876550064",
-    "instagramId": "@mahiverma_064",
-    "linkedinId": "linkedin.com/in/mahiverma-0064",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 86,
@@ -1953,17 +1189,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "rimjhimjindal.0279@gmail.com",
-    "contactNo": "9876100279",
-    "instagramId": "@rimjhimjindal_279",
-    "linkedinId": "linkedin.com/in/rimjhimjindal-0279",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 87,
@@ -1977,15 +1203,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "mahipal172006@gmail.com",
-    "contactNo": "6398129656",
-    "instagramId": "@meowhiiee",
-    "technicalSkills": "Problem-solving, AI/ML, Designing",
-    "contributionStrengths": "Coding, design, problem solving",
-    "whyBinaryClub": "To improve technical skills.",
-    "eventIdeas": "Hands-on workshops & hackathons",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 88,
@@ -1998,17 +1216,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "deveshkumarthakur.0120@gmail.com",
-    "contactNo": "9876100120",
-    "instagramId": "@deveshkumarthakur_120",
-    "linkedinId": "linkedin.com/in/deveshkumarthakur-0120",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 89,
@@ -2021,15 +1229,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "Snehachahal012@gmail.com",
-    "contactNo": "9817088196",
-    "instagramId": "S_riya2006",
-    "technicalSkills": "C, Web Dev, Public Speaking",
-    "contributionStrengths": "Good communication, teamwork",
-    "whyBinaryClub": "To improve technical skills.",
-    "eventIdeas": "Tech quizzes & hackathons",
-    "threeWords": "Good Learner, Listener, Dedicated"
+    "year": "2nd Year"
   },
   {
     "rank": 90,
@@ -2043,15 +1243,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "aanyachoudhary579@gmail.com",
-    "contactNo": "9027245014",
-    "instagramId": "aanya.choudharyyy",
-    "technicalSkills": "C, Python, Web Dev, AI/ML",
-    "contributionStrengths": "Problem solving, coding, teamwork",
-    "whyBinaryClub": "To improve technical skills.",
-    "eventIdeas": "Workshops & coding competitions",
-    "threeWords": "Curious, Team Player, Quick Learner"
+    "year": "2nd Year"
   },
   {
     "rank": 91,
@@ -2065,15 +1257,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "aksharajindal1310@gmail.com",
-    "contactNo": "9528730200",
-    "instagramId": "_akshara.0",
-    "technicalSkills": "C, Python, Web Dev",
-    "contributionStrengths": "Social media, video editing",
-    "whyBinaryClub": "Wanna learn coding in better ways.",
-    "eventIdeas": "Mini project workshops",
-    "threeWords": "Curious, Adaptable, Cheerful"
+    "year": "2nd Year"
   },
   {
     "rank": 92,
@@ -2087,17 +1271,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Cloud Computing",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ishitapundir.0052@gmail.com",
-    "contactNo": "9876120052",
-    "instagramId": "@ishitapundir_052",
-    "linkedinId": "linkedin.com/in/ishitapundir-0052",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 93,
@@ -2110,17 +1284,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "tejasvitomar.0119@gmail.com",
-    "contactNo": "9876120119",
-    "instagramId": "@tejasvitomar_119",
-    "linkedinId": "linkedin.com/in/tejasvitomar-0119",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 94,
@@ -2133,17 +1297,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "meenu.0078@gmail.com",
-    "contactNo": "9876540078",
-    "instagramId": "@meenu_078",
-    "linkedinId": "linkedin.com/in/meenu-0078",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 95,
@@ -2156,17 +1310,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anshchaudhary.0055@gmail.com",
-    "contactNo": "9876100055",
-    "instagramId": "@anshchaudhary_055",
-    "linkedinId": "linkedin.com/in/anshchaudhary-0055",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 96,
@@ -2179,17 +1323,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "khushityagi.0166@gmail.com",
-    "contactNo": "9876530166",
-    "instagramId": "@khushityagi_166",
-    "linkedinId": "linkedin.com/in/khushityagi-0166",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 97,
@@ -2202,17 +1336,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "adityarawat.0011@gmail.com",
-    "contactNo": "9876120011",
-    "instagramId": "@adityarawat_011",
-    "linkedinId": "linkedin.com/in/adityarawat-0011",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 98,
@@ -2226,17 +1350,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Cloud Computing",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "aditichauhan.0009@gmail.com",
-    "contactNo": "9876120009",
-    "instagramId": "@aditichauhan_009",
-    "linkedinId": "linkedin.com/in/aditichauhan-0009",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 99,
@@ -2249,17 +1363,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anmolraghav.0017@gmail.com",
-    "contactNo": "9876540017",
-    "instagramId": "@anmolraghav_017",
-    "linkedinId": "linkedin.com/in/anmolraghav-0017",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 100,
@@ -2273,17 +1377,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "shreyanshbisht.0279@gmail.com",
-    "contactNo": "9876530279",
-    "instagramId": "@shreyanshbisht_279",
-    "linkedinId": "linkedin.com/in/shreyanshbisht-0279",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 101,
@@ -2296,17 +1390,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ashwanityagi.0081@gmail.com",
-    "contactNo": "9876100081",
-    "instagramId": "@ashwanityagi_081",
-    "linkedinId": "linkedin.com/in/ashwanityagi-0081",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 102,
@@ -2320,17 +1404,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "ishikatyagi.0057@gmail.com",
-    "contactNo": "9876540057",
-    "instagramId": "@ishikatyagi_057",
-    "linkedinId": "linkedin.com/in/ishikatyagi-0057",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 103,
@@ -2344,17 +1418,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Cloud Computing",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "nityanshgupta.0234@gmail.com",
-    "contactNo": "9876100234",
-    "instagramId": "@nityanshgupta_234",
-    "linkedinId": "linkedin.com/in/nityanshgupta-0234",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 104,
@@ -2368,17 +1432,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "anuragbind.0064@gmail.com",
-    "contactNo": "9876100064",
-    "instagramId": "@anuragbind_064",
-    "linkedinId": "linkedin.com/in/anuragbind-0064",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 105,
@@ -2391,17 +1445,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "pragya.0084@gmail.com",
-    "contactNo": "9876120084",
-    "instagramId": "@pragya_084",
-    "linkedinId": "linkedin.com/in/pragya-0084",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 106,
@@ -2414,17 +1458,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "yashraj.0335@gmail.com",
-    "contactNo": "9876530335",
-    "instagramId": "@yashraj_335",
-    "linkedinId": "linkedin.com/in/yashraj-0335",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 107,
@@ -2437,17 +1471,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "kanishksharma.0164@gmail.com",
-    "contactNo": "9876100164",
-    "instagramId": "@kanishksharma_164",
-    "linkedinId": "linkedin.com/in/kanishksharma-0164",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 108,
@@ -2460,17 +1484,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anshikamohan.0018@gmail.com",
-    "contactNo": "9876120018",
-    "instagramId": "@anshikamohan_018",
-    "linkedinId": "linkedin.com/in/anshikamohan-0018",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 109,
@@ -2484,17 +1498,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "aaradhyasaini.0016@gmail.com",
-    "contactNo": "9876310016",
-    "instagramId": "@aaradhyasaini_016",
-    "linkedinId": "linkedin.com/in/aaradhyasaini-0016",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 110,
@@ -2507,17 +1511,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "akshitarawat.0041@gmail.com",
-    "contactNo": "9876530041",
-    "instagramId": "@akshitarawat_041",
-    "linkedinId": "linkedin.com/in/akshitarawat-0041",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 111,
@@ -2530,17 +1524,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anushkaverma.0021@gmail.com",
-    "contactNo": "9876120021",
-    "instagramId": "@anushkaverma_021",
-    "linkedinId": "linkedin.com/in/anushkaverma-0021",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 112,
@@ -2553,17 +1537,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "pranavgupta.0080@gmail.com",
-    "contactNo": "9876550080",
-    "instagramId": "@pranavgupta_080",
-    "linkedinId": "linkedin.com/in/pranavgupta-0080",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 113,
@@ -2577,17 +1551,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "harshvikal.0136@gmail.com",
-    "contactNo": "9876530136",
-    "instagramId": "@harshvikal_136",
-    "linkedinId": "linkedin.com/in/harshvikal-0136",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 114,
@@ -2600,17 +1564,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "vinayshankarsingh.0318@gmail.com",
-    "contactNo": "9876530318",
-    "instagramId": "@vinayshankarsingh_318",
-    "linkedinId": "linkedin.com/in/vinayshankarsingh-0318",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 115,
@@ -2623,17 +1577,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "tanishgoswami.0088@gmail.com",
-    "contactNo": "9876130088",
-    "instagramId": "@tanishgoswami_088",
-    "linkedinId": "linkedin.com/in/tanishgoswami-0088",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 116,
@@ -2647,17 +1591,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "anjalikandwal.0021@gmail.com",
-    "contactNo": "9876550021",
-    "instagramId": "@anjalikandwal_021",
-    "linkedinId": "linkedin.com/in/anjalikandwal-0021",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 117,
@@ -2670,17 +1604,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "sarveshkumarmishra.0311@gmail.com",
-    "contactNo": "9876100311",
-    "instagramId": "@sarveshkumarmishra_311",
-    "linkedinId": "linkedin.com/in/sarveshkumarmishra-0311",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 118,
@@ -2693,17 +1617,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anshikagoyal.0058@gmail.com",
-    "contactNo": "9876100058",
-    "instagramId": "@anshikagoyal_058",
-    "linkedinId": "linkedin.com/in/anshikagoyal-0058",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 119,
@@ -2717,17 +1631,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "Android Development"
     ],
-    "year": "2nd Year",
-    "email": "roshan.0291@gmail.com",
-    "contactNo": "9876100291",
-    "instagramId": "@roshan_291",
-    "linkedinId": "linkedin.com/in/roshan-0291",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 120,
@@ -2741,17 +1645,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "krishnachaubey.0176@gmail.com",
-    "contactNo": "9876100176",
-    "instagramId": "@krishnachaubey_176",
-    "linkedinId": "linkedin.com/in/krishnachaubey-0176",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 121,
@@ -2766,17 +1660,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "mohdadilsiddiqui.0083@gmail.com",
-    "contactNo": "9876530083",
-    "instagramId": "@mohdadilsiddiqui_083",
-    "linkedinId": "linkedin.com/in/mohdadilsiddiqui-0083",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 122,
@@ -2790,17 +1674,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "namangoel.2725@gmail.com",
-    "contactNo": "9876702725",
-    "instagramId": "@namangoel_725",
-    "linkedinId": "linkedin.com/in/namangoel-2725",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 123,
@@ -2814,17 +1688,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "adityashukla.0025@gmail.com",
-    "contactNo": "9876100025",
-    "instagramId": "@adityashukla_025",
-    "linkedinId": "linkedin.com/in/adityashukla-0025",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 124,
@@ -2837,17 +1701,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "abhinavanand.0009@gmail.com",
-    "contactNo": "9876100009",
-    "instagramId": "@abhinavanand_009",
-    "linkedinId": "linkedin.com/in/abhinavanand-0009",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 125,
@@ -2862,17 +1716,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "keshavtyagi105male.8546@gmail.com",
-    "contactNo": "9876128546",
-    "instagramId": "@keshavtyagi105male_546",
-    "linkedinId": "linkedin.com/in/keshavtyagi105male-8546",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 126,
@@ -2885,17 +1729,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "gunjan.0027@gmail.com",
-    "contactNo": "9876130027",
-    "instagramId": "@gunjan_027",
-    "linkedinId": "linkedin.com/in/gunjan-0027",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 127,
@@ -2909,17 +1743,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Cloud Computing",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "nisthatyagi.0089@gmail.com",
-    "contactNo": "9876540089",
-    "instagramId": "@nisthatyagi_089",
-    "linkedinId": "linkedin.com/in/nisthatyagi-0089",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 128,
@@ -2932,17 +1756,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "sonukumar.0084@gmail.com",
-    "contactNo": "9876310084",
-    "instagramId": "@sonukumar_084",
-    "linkedinId": "linkedin.com/in/sonukumar-0084",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 129,
@@ -2955,17 +1769,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anandsingh.0047@gmail.com",
-    "contactNo": "9876100047",
-    "instagramId": "@anandsingh_047",
-    "linkedinId": "linkedin.com/in/anandsingh-0047",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 130,
@@ -2978,17 +1782,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "arpitsingh.0074@gmail.com",
-    "contactNo": "9876100074",
-    "instagramId": "@arpitsingh_074",
-    "linkedinId": "linkedin.com/in/arpitsingh-0074",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 131,
@@ -3002,17 +1796,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "armaan.0071@gmail.com",
-    "contactNo": "9876530071",
-    "instagramId": "@armaan_071",
-    "linkedinId": "linkedin.com/in/armaan-0071",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 132,
@@ -3025,17 +1809,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "tusharaggarwal.0370@gmail.com",
-    "contactNo": "9876100370",
-    "instagramId": "@tusharaggarwal_370",
-    "linkedinId": "linkedin.com/in/tusharaggarwal-0370",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 133,
@@ -3048,17 +1822,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "divyanshsharma.0116@gmail.com",
-    "contactNo": "9876530116",
-    "instagramId": "@divyanshsharma_116",
-    "linkedinId": "linkedin.com/in/divyanshsharma-0116",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 134,
@@ -3071,17 +1835,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "devvardhan.0109@gmail.com",
-    "contactNo": "9876530109",
-    "instagramId": "@devvardhan_109",
-    "linkedinId": "linkedin.com/in/devvardhan-0109",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 135,
@@ -3095,17 +1849,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "vidushichaudhary.0316@gmail.com",
-    "contactNo": "9876530316",
-    "instagramId": "@vidushichaudhary_316",
-    "linkedinId": "linkedin.com/in/vidushichaudhary-0316",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 136,
@@ -3119,17 +1863,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "Android Development"
     ],
-    "year": "2nd Year",
-    "email": "sapnagupta.0105@gmail.com",
-    "contactNo": "9876540105",
-    "instagramId": "@sapnagupta_105",
-    "linkedinId": "linkedin.com/in/sapnagupta-0105",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 137,
@@ -3143,17 +1877,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "bhavyasingh.0104@gmail.com",
-    "contactNo": "9876100104",
-    "instagramId": "@bhavyasingh_104",
-    "linkedinId": "linkedin.com/in/bhavyasingh-0104",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 138,
@@ -3168,17 +1892,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "adarsh.0019@gmail.com",
-    "contactNo": "9876100019",
-    "instagramId": "@adarsh_019",
-    "linkedinId": "linkedin.com/in/adarsh-0019",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 139,
@@ -3193,17 +1907,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "aartisharma.0008@gmail.com",
-    "contactNo": "9876530008",
-    "instagramId": "@aartisharma_008",
-    "linkedinId": "linkedin.com/in/aartisharma-0008",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 140,
@@ -3217,17 +1921,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "khushi.0162@gmail.com",
-    "contactNo": "9876530162",
-    "instagramId": "@khushi_162",
-    "linkedinId": "linkedin.com/in/khushi-0162",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 141,
@@ -3241,17 +1935,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "jaikumarsharma.0058@gmail.com",
-    "contactNo": "9876540058",
-    "instagramId": "@jaikumarsharma_058",
-    "linkedinId": "linkedin.com/in/jaikumarsharma-0058",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 142,
@@ -3265,17 +1949,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "avishisingh.0088@gmail.com",
-    "contactNo": "9876100088",
-    "instagramId": "@avishisingh_088",
-    "linkedinId": "linkedin.com/in/avishisingh-0088",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 143,
@@ -3289,17 +1963,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "chhavisharma.0106@gmail.com",
-    "contactNo": "9876100106",
-    "instagramId": "@chhavisharma_106",
-    "linkedinId": "linkedin.com/in/chhavisharma-0106",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 144,
@@ -3313,17 +1977,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "Android Development"
     ],
-    "year": "2nd Year",
-    "email": "madhavsharma.0190@gmail.com",
-    "contactNo": "9876100190",
-    "instagramId": "@madhavsharma_190",
-    "linkedinId": "linkedin.com/in/madhavsharma-0190",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 145,
@@ -3337,17 +1991,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "akshaykushwaha.0014@gmail.com",
-    "contactNo": "9876550014",
-    "instagramId": "@akshaykushwaha_014",
-    "linkedinId": "linkedin.com/in/akshaykushwaha-0014",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 146,
@@ -3360,17 +2004,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "nishantkumar.0075@gmail.com",
-    "contactNo": "9876550075",
-    "instagramId": "@nishantkumar_075",
-    "linkedinId": "linkedin.com/in/nishantkumar-0075",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 147,
@@ -3383,17 +2017,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "vaishnavibaranwal.0129@gmail.com",
-    "contactNo": "9876540129",
-    "instagramId": "@vaishnavibaranwal_129",
-    "linkedinId": "linkedin.com/in/vaishnavibaranwal-0129",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 148,
@@ -3406,17 +2030,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "monikapal.0217@gmail.com",
-    "contactNo": "9876100217",
-    "instagramId": "@monikapal_217",
-    "linkedinId": "linkedin.com/in/monikapal-0217",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 149,
@@ -3429,17 +2043,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "vineetbajpai.0132@gmail.com",
-    "contactNo": "9876120132",
-    "instagramId": "@vineetbajpai_132",
-    "linkedinId": "linkedin.com/in/vineetbajpai-0132",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 150,
@@ -3452,17 +2056,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ritikaaggarwal.0285@gmail.com",
-    "contactNo": "9876100285",
-    "instagramId": "@ritikaaggarwal_285",
-    "linkedinId": "linkedin.com/in/ritikaaggarwal-0285",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 151,
@@ -3476,17 +2070,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "luckysaini.0179@gmail.com",
-    "contactNo": "9876530179",
-    "instagramId": "@luckysaini_179",
-    "linkedinId": "linkedin.com/in/luckysaini-0179",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 152,
@@ -3499,17 +2083,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "gungun.0056@gmail.com",
-    "contactNo": "9876100056",
-    "instagramId": "@gungun_056",
-    "linkedinId": "linkedin.com/in/gungun-0056",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 153,
@@ -3523,17 +2097,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "parteek.0245@gmail.com",
-    "contactNo": "9876100245",
-    "instagramId": "@parteek_245",
-    "linkedinId": "linkedin.com/in/parteek-0245",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 154,
@@ -3546,17 +2110,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "garimasingh.0133@gmail.com",
-    "contactNo": "9876100133",
-    "instagramId": "@garimasingh_133",
-    "linkedinId": "linkedin.com/in/garimasingh-0133",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 155,
@@ -3570,17 +2124,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "khushichaudhary.0163@gmail.com",
-    "contactNo": "9876530163",
-    "instagramId": "@khushichaudhary_163",
-    "linkedinId": "linkedin.com/in/khushichaudhary-0163",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 156,
@@ -3594,17 +2138,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "khushisingh.0164@gmail.com",
-    "contactNo": "9876530164",
-    "instagramId": "@khushisingh_164",
-    "linkedinId": "linkedin.com/in/khushisingh-0164",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 157,
@@ -3617,17 +2151,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "garimapoonia.0046@gmail.com",
-    "contactNo": "9876120046",
-    "instagramId": "@garimapoonia_046",
-    "linkedinId": "linkedin.com/in/garimapoonia-0046",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 158,
@@ -3640,17 +2164,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anshikarao.0059@gmail.com",
-    "contactNo": "9876100059",
-    "instagramId": "@anshikarao_059",
-    "linkedinId": "linkedin.com/in/anshikarao-0059",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 159,
@@ -3665,17 +2179,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "priyanshujoshi.0226@gmail.com",
-    "contactNo": "9876530226",
-    "instagramId": "@priyanshujoshi_226",
-    "linkedinId": "linkedin.com/in/priyanshujoshi-0226",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 160,
@@ -3688,17 +2192,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ananyashukla.0019@gmail.com",
-    "contactNo": "9876550019",
-    "instagramId": "@ananyashukla_019",
-    "linkedinId": "linkedin.com/in/ananyashukla-0019",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 161,
@@ -3711,17 +2205,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "mansi.0066@gmail.com",
-    "contactNo": "9876550066",
-    "instagramId": "@mansi_066",
-    "linkedinId": "linkedin.com/in/mansi-0066",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 162,
@@ -3735,17 +2219,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "vanshikatyagi.0124@gmail.com",
-    "contactNo": "9876120124",
-    "instagramId": "@vanshikatyagi_124",
-    "linkedinId": "linkedin.com/in/vanshikatyagi-0124",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 163,
@@ -3759,17 +2233,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "snehatripathi.0110@gmail.com",
-    "contactNo": "9876120110",
-    "instagramId": "@snehatripathi_110",
-    "linkedinId": "linkedin.com/in/snehatripathi-0110",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 164,
@@ -3782,17 +2246,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "payal.0247@gmail.com",
-    "contactNo": "9876100247",
-    "instagramId": "@payal_247",
-    "linkedinId": "linkedin.com/in/payal-0247",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 165,
@@ -3806,17 +2260,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "malayshukla.0067@gmail.com",
-    "contactNo": "9876120067",
-    "instagramId": "@malayshukla_067",
-    "linkedinId": "linkedin.com/in/malayshukla-0067",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 166,
@@ -3830,17 +2274,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "himanshusingh.0153@gmail.com",
-    "contactNo": "9876100153",
-    "instagramId": "@himanshusingh_153",
-    "linkedinId": "linkedin.com/in/himanshusingh-0153",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 167,
@@ -3853,17 +2287,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anupriyakashyap.0020@gmail.com",
-    "contactNo": "9876540020",
-    "instagramId": "@anupriyakashyap_020",
-    "linkedinId": "linkedin.com/in/anupriyakashyap-0020",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 168,
@@ -3876,17 +2300,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "nitya.0232@gmail.com",
-    "contactNo": "9876100232",
-    "instagramId": "@nitya_232",
-    "linkedinId": "linkedin.com/in/nitya-0232",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 169,
@@ -3900,17 +2314,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "tarushisrivastava.0366@gmail.com",
-    "contactNo": "9876100366",
-    "instagramId": "@tarushisrivastava_366",
-    "linkedinId": "linkedin.com/in/tarushisrivastava-0366",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 170,
@@ -3924,17 +2328,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "ayushdhillon.0094@gmail.com",
-    "contactNo": "9876530094",
-    "instagramId": "@ayushdhillon_094",
-    "linkedinId": "linkedin.com/in/ayushdhillon-0094",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 171,
@@ -3947,17 +2341,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "molityagi.0075@gmail.com",
-    "contactNo": "9876020075",
-    "instagramId": "@molityagi_075",
-    "linkedinId": "linkedin.com/in/molityagi-0075",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 172,
@@ -3970,17 +2354,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "wagishapandey.0134@gmail.com",
-    "contactNo": "9876540134",
-    "instagramId": "@wagishapandey_134",
-    "linkedinId": "linkedin.com/in/wagishapandey-0134",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 173,
@@ -3994,17 +2368,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anushkasrivastava.0068@gmail.com",
-    "contactNo": "9876100068",
-    "instagramId": "@anushkasrivastava_068",
-    "linkedinId": "linkedin.com/in/anushkasrivastava-0068",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 174,
@@ -4017,17 +2381,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "gaurimishra.0025@gmail.com",
-    "contactNo": "9876130025",
-    "instagramId": "@gaurimishra_025",
-    "linkedinId": "linkedin.com/in/gaurimishra-0025",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 175,
@@ -4041,17 +2395,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "abhinavtyagi.0005@gmail.com",
-    "contactNo": "9876540005",
-    "instagramId": "@abhinavtyagi_005",
-    "linkedinId": "linkedin.com/in/abhinavtyagi-0005",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 176,
@@ -4064,17 +2408,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "uditnarayanyadav.0374@gmail.com",
-    "contactNo": "9876100374",
-    "instagramId": "@uditnarayanyadav_374",
-    "linkedinId": "linkedin.com/in/uditnarayanyadav-0374",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 177,
@@ -4088,17 +2422,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "Android Development"
     ],
-    "year": "2nd Year",
-    "email": "devansh.0119@gmail.com",
-    "contactNo": "9876100119",
-    "instagramId": "@devansh_119",
-    "linkedinId": "linkedin.com/in/devansh-0119",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 178,
@@ -4111,17 +2435,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "shreyajaiswal.0101@gmail.com",
-    "contactNo": "9876550101",
-    "instagramId": "@shreyajaiswal_101",
-    "linkedinId": "linkedin.com/in/shreyajaiswal-0101",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 179,
@@ -4135,17 +2449,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "aaravkaushik.0005@gmail.com",
-    "contactNo": "9876530005",
-    "instagramId": "@aaravkaushik_005",
-    "linkedinId": "linkedin.com/in/aaravkaushik-0005",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 180,
@@ -4159,17 +2463,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "sakshamverma.0096@gmail.com",
-    "contactNo": "9876120096",
-    "instagramId": "@sakshamverma_096",
-    "linkedinId": "linkedin.com/in/sakshamverma-0096",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 181,
@@ -4182,17 +2476,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "vinaysharma.0399@gmail.com",
-    "contactNo": "9876100399",
-    "instagramId": "@vinaysharma_399",
-    "linkedinId": "linkedin.com/in/vinaysharma-0399",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 182,
@@ -4205,17 +2489,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "swatikeshari.0355@gmail.com",
-    "contactNo": "9876100355",
-    "instagramId": "@swatikeshari_355",
-    "linkedinId": "linkedin.com/in/swatikeshari-0355",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 183,
@@ -4228,17 +2502,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ayushsinha.0031@gmail.com",
-    "contactNo": "9876120031",
-    "instagramId": "@ayushsinha_031",
-    "linkedinId": "linkedin.com/in/ayushsinha-0031",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 184,
@@ -4251,17 +2515,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "krislaykumarprajapati.0178@gmail.com",
-    "contactNo": "9876100178",
-    "instagramId": "@krislaykumarprajapati_178",
-    "linkedinId": "linkedin.com/in/krislaykumarprajapati-0178",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 185,
@@ -4275,17 +2529,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "kaushalkumar.0159@gmail.com",
-    "contactNo": "9876530159",
-    "instagramId": "@kaushalkumar_159",
-    "linkedinId": "linkedin.com/in/kaushalkumar-0159",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 186,
@@ -4298,17 +2542,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ashirvaadsrivastava.0087@gmail.com",
-    "contactNo": "9876530087",
-    "instagramId": "@ashirvaadsrivastava_087",
-    "linkedinId": "linkedin.com/in/ashirvaadsrivastava-0087",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 187,
@@ -4322,17 +2556,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "aryanrathi.0083@gmail.com",
-    "contactNo": "9876530083",
-    "instagramId": "@aryanrathi_083",
-    "linkedinId": "linkedin.com/in/aryanrathi-0083",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 188,
@@ -4345,17 +2569,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anushkapawar.0065@gmail.com",
-    "contactNo": "9876100065",
-    "instagramId": "@anushkapawar_065",
-    "linkedinId": "linkedin.com/in/anushkapawar-0065",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 189,
@@ -4368,17 +2582,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "vanshikaagrawal.0392@gmail.com",
-    "contactNo": "9876100392",
-    "instagramId": "@vanshikaagrawal_392",
-    "linkedinId": "linkedin.com/in/vanshikaagrawal-0392",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 190,
@@ -4391,17 +2595,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "riyatyagi.0100@gmail.com",
-    "contactNo": "9876540100",
-    "instagramId": "@riyatyagi_100",
-    "linkedinId": "linkedin.com/in/riyatyagi-0100",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 191,
@@ -4415,17 +2609,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "utkarshpandey.0379@gmail.com",
-    "contactNo": "9876100379",
-    "instagramId": "@utkarshpandey_379",
-    "linkedinId": "linkedin.com/in/utkarshpandey-0379",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 192,
@@ -4439,17 +2623,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "gungunsaxena.0128@gmail.com",
-    "contactNo": "9876530128",
-    "instagramId": "@gungunsaxena_128",
-    "linkedinId": "linkedin.com/in/gungunsaxena-0128",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 193,
@@ -4462,17 +2636,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "varunsharma.0396@gmail.com",
-    "contactNo": "9876100396",
-    "instagramId": "@varunsharma_396",
-    "linkedinId": "linkedin.com/in/varunsharma-0396",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 194,
@@ -4485,17 +2649,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "vanshikatyagi.0394@gmail.com",
-    "contactNo": "9876100394",
-    "instagramId": "@vanshikatyagi_394",
-    "linkedinId": "linkedin.com/in/vanshikatyagi-0394",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 195,
@@ -4508,17 +2662,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "harikishortomar.0141@gmail.com",
-    "contactNo": "9876100141",
-    "instagramId": "@harikishortomar_141",
-    "linkedinId": "linkedin.com/in/harikishortomar-0141",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 196,
@@ -4531,17 +2675,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ridhimaagarwal.0278@gmail.com",
-    "contactNo": "9876100278",
-    "instagramId": "@ridhimaagarwal_278",
-    "linkedinId": "linkedin.com/in/ridhimaagarwal-0278",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 197,
@@ -4554,17 +2688,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "neeivverma.0073@gmail.com",
-    "contactNo": "9876550073",
-    "instagramId": "@neeivverma_073",
-    "linkedinId": "linkedin.com/in/neeivverma-0073",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 198,
@@ -4577,17 +2701,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "anshulchaudhary.0061@gmail.com",
-    "contactNo": "9876100061",
-    "instagramId": "@anshulchaudhary_061",
-    "linkedinId": "linkedin.com/in/anshulchaudhary-0061",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 199,
@@ -4600,17 +2714,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ankitkumarsarsawat.0052@gmail.com",
-    "contactNo": "9876100052",
-    "instagramId": "@ankitkumarsarsawat_052",
-    "linkedinId": "linkedin.com/in/ankitkumarsarsawat-0052",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 200,
@@ -4623,17 +2727,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "arpittomar.0076@gmail.com",
-    "contactNo": "9876530076",
-    "instagramId": "@arpittomar_076",
-    "linkedinId": "linkedin.com/in/arpittomar-0076",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 201,
@@ -4646,17 +2740,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "janhitsingh.0160@gmail.com",
-    "contactNo": "9876100160",
-    "instagramId": "@janhitsingh_160",
-    "linkedinId": "linkedin.com/in/janhitsingh-0160",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 202,
@@ -4670,17 +2754,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "visheshsinghal.0323@gmail.com",
-    "contactNo": "9876530323",
-    "instagramId": "@visheshsinghal_323",
-    "linkedinId": "linkedin.com/in/visheshsinghal-0323",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 203,
@@ -4693,17 +2767,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "palaktyagi.0241@gmail.com",
-    "contactNo": "9876100241",
-    "instagramId": "@palaktyagi_241",
-    "linkedinId": "linkedin.com/in/palaktyagi-0241",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 204,
@@ -4718,17 +2782,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "rajveer.0237@gmail.com",
-    "contactNo": "9876530237",
-    "instagramId": "@rajveer_237",
-    "linkedinId": "linkedin.com/in/rajveer-0237",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 205,
@@ -4741,17 +2795,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "srishtityagi.0342@gmail.com",
-    "contactNo": "9876100342",
-    "instagramId": "@srishtityagi_342",
-    "linkedinId": "linkedin.com/in/srishtityagi-0342",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 206,
@@ -4764,17 +2808,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "tarushmishra.0365@gmail.com",
-    "contactNo": "9876100365",
-    "instagramId": "@tarushmishra_365",
-    "linkedinId": "linkedin.com/in/tarushmishra-0365",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 207,
@@ -4787,17 +2821,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "apekshagupta.0022@gmail.com",
-    "contactNo": "9876120022",
-    "instagramId": "@apekshagupta_022",
-    "linkedinId": "linkedin.com/in/apekshagupta-0022",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 208,
@@ -4811,17 +2835,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "kashvigoel.0157@gmail.com",
-    "contactNo": "9876530157",
-    "instagramId": "@kashvigoel_157",
-    "linkedinId": "linkedin.com/in/kashvigoel-0157",
-    "technicalSkills": "Competitive Programming, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Competitive Programming and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Competitive Programming development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Competitive Programming, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Competitive Programming workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 209,
@@ -4834,17 +2848,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "mukulkumar.0082@gmail.com",
-    "contactNo": "9876540082",
-    "instagramId": "@mukulkumar_082",
-    "linkedinId": "linkedin.com/in/mukulkumar-0082",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 210,
@@ -4859,17 +2863,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "abhaychauhan.0006@gmail.com",
-    "contactNo": "9876120006",
-    "instagramId": "@abhaychauhan_006",
-    "linkedinId": "linkedin.com/in/abhaychauhan-0006",
-    "technicalSkills": "AI/ML, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in AI/ML and solved problem sets.",
-    "contributionStrengths": "Problem-solving, AI/ML development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in AI/ML, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly AI/ML workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 211,
@@ -4882,17 +2876,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "ankitasinghpatel.0053@gmail.com",
-    "contactNo": "9876100053",
-    "instagramId": "@ankitasinghpatel_053",
-    "linkedinId": "linkedin.com/in/ankitasinghpatel-0053",
-    "technicalSkills": "Web Development, Python, C++, Data Structures & Algorithms",
-    "projects": "Built hands-on project in Web Development and solved problem sets.",
-    "contributionStrengths": "Problem-solving, Web Development development, and team collaboration.",
-    "whyBinaryClub": "I want to join Binary Club to improve my skills in Web Development, collaborate with passionate peers, and build real-world campus projects.",
-    "eventIdeas": "Beginner-friendly Web Development workshops, coding hackathons, and debugging challenges.",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 212,
@@ -4905,15 +2889,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "karantyagi1804@gmail.com",
-    "contactNo": "7900431601",
-    "instagramId": "Karantyagi._",
-    "technicalSkills": "HTML, CSS, Python, C",
-    "contributionStrengths": "Willingness to learn, team player",
-    "whyBinaryClub": "To improve coding skills.",
-    "eventIdeas": "Open interactive coding sessions",
-    "threeWords": "Curious, Sincere, Quick Learner"
+    "year": "2nd Year"
   },
   {
     "rank": 213,
@@ -4927,16 +2903,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "anshikasingh8d8@gmail.com",
-    "contactNo": "8887133891",
-    "instagramId": "miss_.89",
-    "technicalSkills": "Java, Python, C, Web Dev, Cyber security",
-    "contributionStrengths": "Public speaking, interactive skills",
-    "whyBinaryClub": "To grow and acquire tech knowledge.",
-    "eventIdeas": "Interactive doubt-solving sessions",
-    "threeWords": "Confident, Sincere, Philomath",
-    "projectLink": "https://drive.google.com/open?id=1HV7_0a8h8p"
+    "year": "2nd Year"
   },
   {
     "rank": 214,
@@ -4950,14 +2917,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "chauhanabhinav2637@gmail.com",
-    "contactNo": "9625751696",
-    "technicalSkills": "C, C++, AI/ML",
-    "contributionStrengths": "Public speaking, determination",
-    "whyBinaryClub": "To learn technical skills.",
-    "eventIdeas": "Project building sessions",
-    "threeWords": "Hardworking, Determined, Persevering"
+    "year": "2nd Year"
   },
   {
     "rank": 215,
@@ -4970,15 +2930,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "schaudhary9297@gmail.com",
-    "contactNo": "8533812125",
-    "technicalSkills": "Web Dev, Frontend",
-    "contributionStrengths": "Collaboration, supportive team player",
-    "whyBinaryClub": "To deepen technical understanding.",
-    "eventIdeas": "24-hour AI & Automation Hackathon",
-    "threeWords": "Driven, Adaptable, Analytical",
-    "projectLink": "https://drive.google.com/open?id=1f2NIN4ZiMf7c"
+    "year": "2nd Year"
   },
   {
     "rank": 216,
@@ -4991,15 +2943,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "Riyatiwarimth@gmail.com",
-    "contactNo": "9693157196",
-    "instagramId": "___riu.____",
-    "technicalSkills": "Python, C, HTML, CSS",
-    "contributionStrengths": "Quick learning, design",
-    "whyBinaryClub": "To improve coding skills.",
-    "eventIdeas": "Small coding competitions",
-    "threeWords": "Curious, Hardworking, Positive"
+    "year": "2nd Year"
   },
   {
     "rank": 217,
@@ -5013,14 +2957,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "nprajyadav333@gmail.com",
-    "contactNo": "9335238360",
-    "technicalSkills": "DSA in C++, Competitive Programming",
-    "contributionStrengths": "Problem solving in C++",
-    "whyBinaryClub": "To learn and improve competitive programming.",
-    "eventIdeas": "Regular coding contests",
-    "threeWords": "Curious, Hardworking, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 218,
@@ -5034,15 +2971,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "mohdamaan21oct@gmail.com",
-    "contactNo": "7017801204",
-    "instagramId": "amaan_21__",
-    "technicalSkills": "C++, Python, HTML, CSS",
-    "contributionStrengths": "Problem solving, willingness to learn",
-    "whyBinaryClub": "To improve coding skills.",
-    "eventIdeas": "Tech challenge week",
-    "threeWords": "Creative, Curious, Hardworking"
+    "year": "2nd Year"
   },
   {
     "rank": 219,
@@ -5056,16 +2985,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "jindallakshya.17@gmail.com",
-    "contactNo": "9810880620",
-    "instagramId": "lakshya_17j",
-    "technicalSkills": "C, Python, Web Dev, React.js",
-    "contributionStrengths": "Perfectionism, observer, learner",
-    "whyBinaryClub": "To explore new technical domains.",
-    "eventIdeas": "Specified hackathon theme events",
-    "threeWords": "Perfectionist, Observer, Learner",
-    "projectLink": "https://drive.google.com/open?id=1s8dJYBvY3B1"
+    "year": "2nd Year"
   },
   {
     "rank": 220,
@@ -5079,15 +2999,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Competitive Programming",
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "bhaktigoel01@gmail.com",
-    "contactNo": "9210839397",
-    "instagramId": "i__bhaktiii",
-    "technicalSkills": "C, Python, Competitive Programming",
-    "contributionStrengths": "Anchoring, public speaking, coding",
-    "whyBinaryClub": "To enhance skills.",
-    "eventIdeas": "Anchoring & coding workshops",
-    "threeWords": "Passionate, Hardworking, Growing"
+    "year": "2nd Year"
   },
   {
     "rank": 221,
@@ -5100,15 +3012,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "vaibhavdobriyal91225@gmail.com",
-    "contactNo": "9220833275",
-    "instagramId": "vaibhav_dobriyal_01",
-    "technicalSkills": "C, Python, Android Dev, Web Dev",
-    "contributionStrengths": "Problem solving & coding skills",
-    "whyBinaryClub": "To learn and improve myself.",
-    "eventIdeas": "Competitive hackathons",
-    "threeWords": "Adaptable, Reliable, Curious"
+    "year": "2nd Year"
   },
   {
     "rank": 222,
@@ -5122,15 +3026,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "avinashgiri2107@gmail.com",
-    "contactNo": "7011650923",
-    "instagramId": "_.avinash.0721",
-    "technicalSkills": "Python, SQL basics, AI/ML",
-    "contributionStrengths": "Public speaking, leadership",
-    "whyBinaryClub": "To enhance skills and learn hackathon workflows.",
-    "eventIdeas": "Hackathon guidance sessions",
-    "threeWords": "Extrovert, Confident, Trustful"
+    "year": "2nd Year"
   },
   {
     "rank": 223,
@@ -5145,15 +3041,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
       "Web Development",
       "AI/ML"
     ],
-    "year": "2nd Year",
-    "email": "dikshakapoor61207@gmail.com",
-    "contactNo": "8178972169",
-    "instagramId": "Serenesoul677",
-    "technicalSkills": "Java, Android Dev, Web Dev",
-    "contributionStrengths": "Public speaking, confidence",
-    "whyBinaryClub": "To enhance skills and boost confidence.",
-    "eventIdeas": "Skill-based development programs",
-    "threeWords": "Confident, Eager to learn, Adaptable"
+    "year": "2nd Year"
   },
   {
     "rank": 224,
@@ -5166,15 +3054,7 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "sarthak.pandey1245@gmail.com",
-    "contactNo": "7042381707",
-    "instagramId": "@SARTHAK.PANDEY1245",
-    "technicalSkills": "Web Dev, UI/UX Design, Programming",
-    "contributionStrengths": "UI/UX design, interactive website building",
-    "whyBinaryClub": "To improve coding skills.",
-    "eventIdeas": "UI/UX design challenges",
-    "threeWords": "Creative, Curious, Innovative"
+    "year": "2nd Year"
   },
   {
     "rank": 225,
@@ -5187,15 +3067,6 @@ export const OFFICIAL_150_SHORTLIST: ShortlistedStudent[] = [
     "allDomains": [
       "Web Development"
     ],
-    "year": "2nd Year",
-    "email": "arjunmalikm91@gmail.com",
-    "contactNo": "8368340374",
-    "instagramId": "arjun._.malik21",
-    "technicalSkills": "Web Dev, AI/ML, Competitive Programming",
-    "contributionStrengths": "Public speaking, video editing",
-    "whyBinaryClub": "To be part of people with higher technical knowledge.",
-    "eventIdeas": "Real-world skill-based programs",
-    "threeWords": "Confident, Fast Learner, Dynamic",
-    "projectLink": "https://drive.google.com/open?id=1V1bdSN-h6-2i"
+    "year": "2nd Year"
   }
 ];

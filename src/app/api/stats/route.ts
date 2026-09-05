@@ -1,35 +1,54 @@
 import { NextResponse } from 'next/server';
 import { db } from '@/lib/db';
 import { ensureDataSeeded } from '@/lib/seedHelper';
+import { OFFICIAL_150_SHORTLIST } from '@/lib/students150';
 
 export async function GET() {
   try {
     await ensureDataSeeded();
-    const cycle = await db.recruitmentCycle.findFirst({ where: { status: 'ACTIVE' } });
-    if (!cycle) {
-      return NextResponse.json({
-        totalApplicants: 0,
-        shortlistedCount: 0,
-        piPendingCount: 0,
-        piCompletedCount: 0,
-        selectedCount: 0,
-        rejectedCount: 0,
-        averagePIScore: 0,
-        topCandidates: [],
-        branchStats: [],
-        sectionStats: [],
-        domainStats: [],
-        genderStats: [],
-        yearStats: [],
-        piScoreDistribution: [],
-        selectionStats: [],
+    let cycle = await db.recruitmentCycle.findFirst({ where: { status: 'ACTIVE' } });
+
+    let dbParticipants: any[] = [];
+    if (cycle) {
+      dbParticipants = await db.participant.findMany({
+        where: { recruitmentCycleId: cycle.id },
+        include: { piScores: true, finalResult: true },
       });
     }
 
-    const participants = await db.participant.findMany({
-      where: { recruitmentCycleId: cycle.id },
-      include: { piScores: true, finalResult: true },
-    });
+    let participants = dbParticipants;
+
+    // Fallback to OFFICIAL_150_SHORTLIST (all 225 real candidates) if DB is empty
+    if (participants.length === 0) {
+      participants = OFFICIAL_150_SHORTLIST.map((s, idx) => ({
+        id: `cand-${s.rollNo}`,
+        name: s.name,
+        rollNo: s.rollNo,
+        gender: 'Unspecified',
+        email: s.email || `${s.name.toLowerCase().replace(/[^a-z0-9]/g, '')}.${s.rollNo.slice(-4)}@binaryclub.org`,
+        contactNo: s.contactNo || '',
+        year: '2nd Year',
+        branch: s.branch,
+        section: s.section,
+        primaryDomain: s.primaryDomain,
+        allDomains: JSON.stringify(s.allDomains),
+        technicalSkills: s.technicalSkills || s.allDomains.join(', '),
+        projects: s.projects || (s.projectLink ? `Project link: ${s.projectLink}` : `Project in ${s.primaryDomain}`),
+        piScores: [
+          {
+            id: `score-${s.rollNo}`,
+            overallScore: s.score,
+            recommendation: s.rank <= 50 ? 'STRONGLY_RECOMMEND' : 'RECOMMEND',
+          },
+        ],
+        finalResult: {
+          id: `result-${s.rollNo}`,
+          totalScore: s.score,
+          finalRank: s.rank || idx + 1,
+          selectionStatus: 'SHORTLISTED',
+        },
+      }));
+    }
 
     const totalApplicants = participants.length;
 
@@ -71,7 +90,7 @@ export async function GET() {
       // PI metrics
       if (p.piScores.length > 0) {
         piCompletedCount++;
-        const pAvg = p.piScores.reduce((acc, s) => acc + s.overallScore, 0) / p.piScores.length;
+        const pAvg = p.piScores.reduce((acc: number, s: any) => acc + (s.overallScore || 0), 0) / p.piScores.length;
         totalPIScoreSum += pAvg;
         piScoredCandidatesCount++;
 

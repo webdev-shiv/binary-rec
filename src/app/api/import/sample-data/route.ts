@@ -18,7 +18,7 @@ export async function POST() {
       });
     }
 
-    // Clear old data so ONLY the 150 official candidates exist
+    // Clear old data so ONLY the 225 official candidates exist
     await db.pIScore.deleteMany({});
     await db.finalResult.deleteMany({});
     await db.participant.deleteMany({});
@@ -106,7 +106,7 @@ export async function POST() {
 
     return NextResponse.json({
       success: true,
-      message: `Database reset! Loaded ONLY the 150 official shortlisted candidates with full response form details.`,
+      message: `Database reset! Loaded ONLY the 225 official shortlisted candidates with full response form details.`,
       totalRecords: OFFICIAL_150_SHORTLIST.length,
     });
   } catch (error: any) {

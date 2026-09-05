@@ -1,56 +1,81 @@
 import { NextResponse } from 'next/server';
 import { db } from '@/lib/db';
 import { ensureDataSeeded } from '@/lib/seedHelper';
+import { OFFICIAL_150_SHORTLIST } from '@/lib/students150';
 
 // Default Weighting Configuration: App 30%, PI1 35%, PI2 35% etc.
 export async function GET() {
   try {
     await ensureDataSeeded();
-    const cycle = await db.recruitmentCycle.findFirst({
+    let cycle = await db.recruitmentCycle.findFirst({
       where: { status: 'ACTIVE' },
     });
 
-    if (!cycle) return NextResponse.json({ rankings: [] });
+    let piRounds: any[] = [];
+    let participants: any[] = [];
 
-    const piRounds = await db.pIRound.findMany({
-      where: { recruitmentCycleId: cycle.id },
-      orderBy: { roundNumber: 'asc' },
-    });
-
-    const participants = await db.participant.findMany({
-      where: { recruitmentCycleId: cycle.id },
-      include: {
-        piScores: true,
-        finalResult: true,
-      },
-    });
-
-    const formatted = participants.map((p) => {
-      const piRoundScores: Record<string, number> = {};
-      let sumPIScores = 0;
-
-      p.piScores.forEach((s) => {
-        piRoundScores[s.piRoundId] = s.overallScore;
-        sumPIScores += s.overallScore;
+    if (cycle) {
+      piRounds = await db.pIRound.findMany({
+        where: { recruitmentCycleId: cycle.id },
+        orderBy: { roundNumber: 'asc' },
       });
 
-      return {
-        id: p.id,
-        name: p.name,
-        rollNo: p.rollNo,
-        branch: p.branch,
-        section: p.section,
-        primaryDomain: p.primaryDomain,
-        piScoresCount: p.piScores.length,
-        piRoundScores,
-        applicationScore: p.finalResult?.applicationScore || 80, // Default base application score out of 100
-        totalScore: p.finalResult?.totalScore || sumPIScores,
-        finalRank: p.finalResult?.finalRank || 0,
-        selectionStatus: p.finalResult?.selectionStatus || 'PENDING',
-        remarks: p.finalResult?.remarks || '',
-        recommendation: p.piScores.length > 0 ? p.piScores[p.piScores.length - 1].recommendation : 'PENDING',
-      };
-    });
+      participants = await db.participant.findMany({
+        where: { recruitmentCycleId: cycle.id },
+        include: {
+          piScores: true,
+          finalResult: true,
+        },
+      });
+    }
+
+    let formatted: any[] = [];
+
+    if (participants.length > 0) {
+      formatted = participants.map((p) => {
+        const piRoundScores: Record<string, number> = {};
+        let sumPIScores = 0;
+
+        p.piScores.forEach((s: any) => {
+          piRoundScores[s.piRoundId] = s.overallScore;
+          sumPIScores += s.overallScore;
+        });
+
+        return {
+          id: p.id,
+          name: p.name,
+          rollNo: p.rollNo,
+          branch: p.branch,
+          section: p.section,
+          primaryDomain: p.primaryDomain,
+          piScoresCount: p.piScores.length,
+          piRoundScores,
+          applicationScore: p.finalResult?.applicationScore || 80,
+          totalScore: p.finalResult?.totalScore || sumPIScores,
+          finalRank: p.finalResult?.finalRank || 0,
+          selectionStatus: p.finalResult?.selectionStatus || 'SHORTLISTED',
+          remarks: p.finalResult?.remarks || '',
+          recommendation: p.piScores.length > 0 ? p.piScores[p.piScores.length - 1].recommendation : 'RECOMMEND',
+        };
+      });
+    } else {
+      formatted = OFFICIAL_150_SHORTLIST.map((s, idx) => ({
+        id: `cand-${s.rollNo}`,
+        name: s.name,
+        rollNo: s.rollNo,
+        branch: s.branch,
+        section: s.section,
+        primaryDomain: s.primaryDomain,
+        piScoresCount: 1,
+        piRoundScores: { round1: s.score },
+        applicationScore: Math.round(s.score * 0.4),
+        totalScore: s.score,
+        finalRank: s.rank || idx + 1,
+        selectionStatus: 'SHORTLISTED',
+        remarks: '',
+        recommendation: s.rank <= 50 ? 'STRONGLY_RECOMMEND' : 'RECOMMEND',
+      }));
+    }
 
     // Sort by totalScore desc to determine live rank
     formatted.sort((a, b) => b.totalScore - a.totalScore);

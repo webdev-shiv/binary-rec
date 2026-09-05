@@ -770,7 +770,7 @@ export default function Dashboard() {
                   {isCute ? 'CUTE PASTEL 🌸' : isTarget ? 'CORAL SUNSET RED' : isSage ? 'PASTEL SAGE' : isPurple ? 'PURPLE ELEGANCE' : 'BLACK & GOLD'}
                 </span>
               </div>
-              <p className={`text-xs ${isCute ? 'text-[#2D3748]/70 font-semibold' : 'text-[#FFEDCE]/80'}`}>Cute Pastel Light Engine • Official 150 Candidates (2nd Year)</p>
+              <p className={`text-xs ${isCute ? 'text-[#2D3748]/70 font-semibold' : 'text-[#FFEDCE]/80'}`}>Official 225 Shortlisted Candidates (2nd Year)</p>
             </div>
           </div>
 
@@ -843,10 +843,10 @@ export default function Dashboard() {
                   ? 'bg-[#49225B] text-[#F5EBFA] border-[#A56ABD]/40 hover:bg-[#6E3482]/40'
                   : 'bg-[#14213D] text-[#FCA311] border-[#FCA311]/40 hover:bg-[#FCA311]/20'
               }`}
-              title="Reset database to 150 official shortlisted candidates"
+              title="Reset database to 225 official shortlisted candidates"
             >
               <RefreshCw className={`w-3.5 h-3.5 ${seedingSample ? 'animate-spin' : ''}`} />
-              {seedingSample ? 'Loading 150 Candidates...' : 'Reload 150 Shortlist'}
+              {seedingSample ? 'Loading 225 Candidates...' : 'Reload 225 Shortlist'}
             </button>
 
             {currentUser ? (
@@ -1046,7 +1046,7 @@ export default function Dashboard() {
                     <Sparkles className={`w-5 h-5 ${isCute ? 'text-[#FFB6A6]' : isSage ? 'text-[#F3C3B2]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FCA311]'}`} />
                     Top Ranked Candidates Spotlight
                   </h2>
-                  <p className={`text-xs ${isCute ? 'text-[#2D3748]/80 font-medium' : 'text-[#DAEBE3]/80'}`}>Highest composite scoring candidates from official 150 shortlist</p>
+                  <p className={`text-xs ${isCute ? 'text-[#2D3748]/80 font-medium' : 'text-[#DAEBE3]/80'}`}>Highest composite scoring candidates from official 225 shortlist</p>
                 </div>
                 <button
                   onClick={() => setActiveTab('ranking')}
@@ -1106,7 +1106,7 @@ export default function Dashboard() {
                 </div>
               ) : (
                 <div className={`text-center py-8 text-sm rounded-xl border ${isCute ? 'text-slate-600 bg-white/60 border-[#9BCEC1]/40' : 'text-[#DAEBE3]/50 bg-black/40 border-[#99CDD8]/20'}`}>
-                  No candidates found. Click &quot;Reload 150 Shortlist&quot; above!
+                  No candidates found. Click &quot;Reload 225 Shortlist&quot; above!
                 </div>
               )}
             </div>
@@ -1282,7 +1282,7 @@ export default function Dashboard() {
                     ) : participants.length === 0 ? (
                       <tr>
                         <td colSpan={7} className={`text-center py-12 ${isCute ? 'text-slate-500' : 'text-[#DAEBE3]/50'}`}>
-                          No candidates found. Click &quot;Add Student&quot; or &quot;Reload 150 Shortlist&quot;.
+                          No candidates found. Click &quot;Add Student&quot; or &quot;Reload 225 Shortlist&quot;.
                         </td>
                       </tr>
                     ) : (
@@ -1374,21 +1374,21 @@ export default function Dashboard() {
                   type="file"
                   accept=".pdf,.xlsx,.csv"
                   className="hidden"
-                  onChange={() => alert('File upload handler ready! For quick testing, click "Reload 150 Shortlist" above.')}
+                  onChange={() => alert('File upload handler ready! For quick testing, click "Reload 225 Shortlist" above.')}
                 />
               </div>
 
               <div className={`pt-4 border-t flex flex-col sm:flex-row items-center justify-between gap-4 ${isCute ? 'border-[#9BCEC1]/40' : isSage ? 'border-[#99CDD8]/30' : isPurple ? 'border-[#A56ABD]/30' : 'border-[#FCA311]/20'}`}>
                 <div className={`text-xs text-left ${isCute ? 'text-slate-600 font-medium' : 'text-slate-300'}`}>
-                  <div className={`font-bold ${isCute ? 'text-[#67A2C5]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FCA311]'}`}>Official 150 Candidate Shortlist</div>
-                  <div>Reload all 150 shortlisted candidates directly into the database.</div>
+                  <div className={`font-bold ${isCute ? 'text-[#67A2C5]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FCA311]'}`}>Official 225 Candidate Shortlist</div>
+                  <div>Reload all 225 shortlisted candidates directly into the database.</div>
                 </div>
                 <button
                   onClick={seedSampleData}
                   disabled={seedingSample}
                   className={`px-4 py-2 text-xs font-extrabold rounded-lg transition shadow-md whitespace-nowrap ${isCute ? 'bg-[#FFB6A6] hover:bg-[#FFB6A6]/80 text-[#2D3748] glow-cute' : isSage ? 'bg-[#99CDD8] hover:bg-[#99CDD8]/80 text-[#1E271F] glow-aqua' : isPurple ? 'bg-[#A56ABD] hover:bg-[#A56ABD]/80 text-black glow-purple' : 'bg-[#FCA311] hover:bg-[#FCA311]/80 text-black glow-gold'}`}
                 >
-                  {seedingSample ? 'Loading...' : 'Reload 150 Shortlist'}
+                  {seedingSample ? 'Loading...' : 'Reload 225 Shortlist'}
                 </button>
               </div>
             </div>
@@ -1763,7 +1763,7 @@ export default function Dashboard() {
                 <h2 className={`text-lg font-extrabold flex items-center gap-2 ${isCute ? 'text-[#2D3748]' : 'text-white'}`}>
                   <Award className={`w-5 h-5 ${isCute ? 'text-[#FFB6A6]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FCA311]'}`} /> Automated Candidate Composite Ranking
                 </h2>
-                <p className={`text-xs ${isCute ? 'text-slate-500 font-medium' : 'text-[#DAEBE3]/70'}`}>Official 150 shortlist ranks calculated dynamically based on score</p>
+                <p className={`text-xs ${isCute ? 'text-slate-500 font-medium' : 'text-[#DAEBE3]/70'}`}>Official 225 shortlist ranks calculated dynamically based on score</p>
               </div>
 
               <div className="flex flex-wrap items-center gap-3">
@@ -1772,7 +1772,7 @@ export default function Dashboard() {
                   <input
                     type="number"
                     min={1}
-                    max={150}
+                    max={225}
                     value={topNCount}
                     onChange={(e) => setTopNCount(Number(e.target.value))}
                     className={`w-14 rounded text-center text-xs font-bold py-1 border ${isCute ? 'bg-[#FFEBD3] text-[#2D3748] border-[#FFB6A6]/60' : isSage ? 'bg-[#2C362D] text-white border-[#99CDD8]/40' : isPurple ? 'bg-[#49225B] text-white border-[#A56ABD]/40' : 'bg-[#14213D] text-white border-[#FCA311]/40'}`}
@@ -1818,7 +1818,7 @@ export default function Dashboard() {
                     ) : rankings.length === 0 ? (
                       <tr>
                         <td colSpan={7} className={`text-center py-12 ${isCute ? 'text-slate-500' : 'text-[#DAEBE3]/50'}`}>
-                          No ranked candidates available. Click &quot;Reload 150 Shortlist&quot; to view live ranking!
+                          No ranked candidates available. Click &quot;Reload 225 Shortlist&quot; to view live ranking!
                         </td>
                       </tr>
                     ) : (

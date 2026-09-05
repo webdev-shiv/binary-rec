@@ -21,7 +21,12 @@ export async function ensureDataSeeded() {
       where: { recruitmentCycleId: cycle.id },
     });
 
-    if (count > 0) return cycle;
+    if (count >= 225) return cycle;
+
+    // Reset and seed all 225 candidates
+    await db.pIScore.deleteMany({});
+    await db.finalResult.deleteMany({});
+    await db.participant.deleteMany({});
 
     // Check if PI Round exists
     let piRound = await db.pIRound.findFirst({
@@ -38,16 +43,19 @@ export async function ensureDataSeeded() {
           maxScore: 100,
           status: 'ACTIVE',
           scoringCriteria: JSON.stringify({
-            technicalMax: 25,
-            publicSpeakingMax: 25,
-            projectMax: 25,
-            overallMax: 25,
+            technicalMax: 20,
+            problemSolvingMax: 20,
+            communicationMax: 15,
+            domainMax: 15,
+            projectMax: 15,
+            attitudeMax: 10,
+            contributionMax: 5,
           }),
         },
       });
     }
 
-    // Seed all 150 candidates
+    // Seed all 225 candidates
     for (const s of OFFICIAL_150_SHORTLIST) {
       const email = s.email || `${s.name.toLowerCase().replace(/[^a-z0-9]/g, '')}.${s.rollNo.slice(-4)}@binaryclub.org`;
       
@@ -90,14 +98,12 @@ export async function ensureDataSeeded() {
         data: {
           participantId: p.id,
           piRoundId: piRound.id,
-          overallScore: Math.round(s.score * 0.25),
-          technicalScore: Math.round(s.score * 0.25),
+          overallScore: s.score,
+          technicalScore: Math.round(s.score * 0.3),
           problemSolvingScore: Math.round(s.score * 0.25),
-          communicationScore: Math.round(s.score * 0.25),
-          domainKnowledgeScore: Math.round(s.score * 0.25),
-          projectScore: Math.round(s.score * 0.25),
-          attitudeScore: Math.round(s.score * 0.25),
-          contributionScore: Math.round(s.score * 0.25),
+          communicationScore: Math.round(s.score * 0.15),
+          domainKnowledgeScore: Math.round(s.score * 0.15),
+          projectScore: Math.round(s.score * 0.15),
           recommendation: s.rank <= 50 ? 'STRONGLY_RECOMMEND' : 'RECOMMEND',
           scoredBy: 'Official Committee',
         },
