@@ -886,18 +886,8 @@ export default function Dashboard() {
           
           {/* Header Brand */}
           <div className="text-center space-y-3">
-            <div className={`w-16 h-16 rounded-2xl border flex items-center justify-center mx-auto shadow-xl ${
-              isCute
-                ? 'bg-gradient-to-tr from-[#FFB6A6] to-[#9BCEC1] text-[#2D3748] border-[#FFB6A6] glow-cute font-black'
-                : isTarget
-                ? 'bg-[#FF3737]/20 border-[#FF3737] text-[#FF8383] glow-target'
-                : isSage
-                ? 'bg-[#99CDD8]/20 border-[#99CDD8] text-[#99CDD8] glow-aqua'
-                : isPurple
-                ? 'bg-[#6E3482]/40 border-[#A56ABD] text-[#E7DBEF] glow-purple'
-                : 'bg-[#FCA311]/20 border-[#FCA311] text-[#FCA311] glow-gold'
-            }`}>
-              <ShieldCheck className="w-9 h-9" />
+            <div className="w-16 h-16 rounded-2xl border p-1 bg-white flex items-center justify-center mx-auto shadow-xl overflow-hidden">
+              <img src="/logo.png" alt="Binary Club Logo" className="w-full h-full object-contain rounded-xl" />
             </div>
             <div>
               <h1 className={`text-2xl font-black tracking-tight ${isCute ? 'text-[#1A202C]' : 'text-white'}`}>
@@ -1035,18 +1025,8 @@ export default function Dashboard() {
           
           {/* Logo & Title */}
           <div className="flex items-center gap-3">
-            <div className={`w-10 h-10 rounded-xl flex items-center justify-center shadow-lg ${
-              isCute
-                ? 'bg-gradient-to-tr from-[#FFB6A6] to-[#9BCEC1] text-[#2D3748] glow-cute font-black'
-                : isTarget
-                ? 'bg-gradient-to-tr from-[#FF3737] to-[#FF8383] text-white glow-target'
-                : isSage
-                ? 'bg-gradient-to-tr from-[#99CDD8] to-[#F3C3B2] text-[#1E271F] glow-coral'
-                : isPurple
-                ? 'bg-gradient-to-tr from-[#6E3482] to-[#A56ABD] glow-lavender text-white'
-                : 'bg-gradient-to-tr from-[#FCA311] to-[#FFE599] glow-gold text-black'
-            }`}>
-              <Code2 className="w-6 h-6 font-extrabold" />
+            <div className="w-10 h-10 rounded-xl p-0.5 bg-white flex items-center justify-center shadow-lg overflow-hidden border">
+              <img src="/logo.png" alt="Binary Club Logo" className="w-full h-full object-contain rounded-lg" />
             </div>
             <div>
               <div className="flex items-center gap-2">
