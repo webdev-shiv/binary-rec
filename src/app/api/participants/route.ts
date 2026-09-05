@@ -1,8 +1,10 @@
 import { NextResponse } from 'next/server';
 import { db } from '@/lib/db';
+import { ensureDataSeeded } from '@/lib/seedHelper';
 
 export async function GET(request: Request) {
   try {
+    await ensureDataSeeded();
     const { searchParams } = new URL(request.url);
 
     const search = searchParams.get('search')?.trim() || '';

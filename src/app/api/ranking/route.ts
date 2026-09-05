@@ -1,9 +1,11 @@
 import { NextResponse } from 'next/server';
 import { db } from '@/lib/db';
+import { ensureDataSeeded } from '@/lib/seedHelper';
 
 // Default Weighting Configuration: App 30%, PI1 35%, PI2 35% etc.
 export async function GET() {
   try {
+    await ensureDataSeeded();
     const cycle = await db.recruitmentCycle.findFirst({
       where: { status: 'ACTIVE' },
     });

@@ -1,8 +1,10 @@
 import { NextResponse } from 'next/server';
 import { db } from '@/lib/db';
+import { ensureDataSeeded } from '@/lib/seedHelper';
 
 export async function GET() {
   try {
+    await ensureDataSeeded();
     const cycle = await db.recruitmentCycle.findFirst({ where: { status: 'ACTIVE' } });
     if (!cycle) {
       return NextResponse.json({
