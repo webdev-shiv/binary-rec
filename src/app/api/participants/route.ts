@@ -54,6 +54,7 @@ export async function GET(request: Request) {
 
       participants = await db.participant.findMany({
         where: { AND: andConditions },
+        orderBy: { name: 'asc' },
         include: {
           piScores: {
             include: {

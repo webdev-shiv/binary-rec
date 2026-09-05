@@ -431,6 +431,9 @@ export default function Dashboard() {
         merged = merged.filter((p) => p.year === yearFilter);
       }
 
+      // Always sort candidate list A-Z alphabetically by candidate name
+      merged.sort((a, b) => (a.name || '').localeCompare(b.name || '', undefined, { sensitivity: 'base' }));
+
       setParticipants(merged);
     } catch (e) {
       console.error(e);
