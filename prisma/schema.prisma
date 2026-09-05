@@ -1,0 +1,138 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id           String   @id @default(uuid())
+  name         String
+  email        String   @unique
+  passwordHash String
+  role         String   @default("ADMIN") // ADMIN | INTERVIEWER
+  createdAt    DateTime @default(now())
+}
+
+model RecruitmentCycle {
+  id              String           @id @default(uuid())
+  name            String
+  year            Int
+  status          String           @default("ACTIVE") // DRAFT | ACTIVE | COMPLETED
+  createdAt       DateTime         @default(now())
+  participants    Participant[]
+  piRounds        PIRound[]
+  documentImports DocumentImport[]
+}
+
+model Participant {
+  id                    String           @id @default(uuid())
+  recruitmentCycleId    String
+  recruitmentCycle      RecruitmentCycle @relation(fields: [recruitmentCycleId], references: [id], onDelete: Cascade)
+
+  name                  String
+  rollNo                String
+  gender                String           @default("Unspecified")
+  email                 String
+  contactNo             String           @default("")
+  year                  String           @default("1st Year")
+  branch                String           @default("CSE")
+  section               String           @default("A")
+  residentialStatus     String           @default("Hosteller")
+
+  instagramId           String?
+  linkedinId            String?
+
+  primaryDomain         String           @default("Web Development")
+  allDomains            String           @default("[]") // JSON string array
+  technicalSkills       String           @default("")
+  skills                String           @default("")
+  projects              String           @default("")
+  technicalExperience   String           @default("")
+  achievements          String           @default("")
+  contributionStrengths String           @default("")
+  whyBinaryClub         String           @default("")
+  eventIdeas            String           @default("")
+  threeWords            String           @default("")
+
+  rawFormData           String           @default("{}") // JSON string of original raw row data
+
+  piScores              PIScore[]
+  finalResult           FinalResult?
+
+  createdAt             DateTime         @default(now())
+  updatedAt             DateTime         @updatedAt
+
+  @@unique([recruitmentCycleId, rollNo])
+}
+
+model PIRound {
+  id                 String           @id @default(uuid())
+  recruitmentCycleId String
+  recruitmentCycle   RecruitmentCycle @relation(fields: [recruitmentCycleId], references: [id], onDelete: Cascade)
+
+  roundName          String
+  roundNumber        Int
+  description        String           @default("")
+  maxScore           Float            @default(100)
+  scoringCriteria    String           @default("{\"technicalMax\":20,\"problemSolvingMax\":20,\"communicationMax\":15,\"domainMax\":15,\"projectMax\":15,\"attitudeMax\":10,\"contributionMax\":5}") // JSON string
+  status             String           @default("ACTIVE") // UPCOMING | ACTIVE | COMPLETED
+  createdAt          DateTime         @default(now())
+
+  piScores           PIScore[]
+}
+
+model PIScore {
+  id                   String      @id @default(uuid())
+  participantId        String
+  participant          Participant @relation(fields: [participantId], references: [id], onDelete: Cascade)
+
+  piRoundId            String
+  piRound              PIRound     @relation(fields: [piRoundId], references: [id], onDelete: Cascade)
+
+  technicalScore       Float       @default(0)
+  communicationScore   Float       @default(0)
+  problemSolvingScore  Float       @default(0)
+  domainKnowledgeScore Float       @default(0)
+  projectScore         Float       @default(0)
+  attitudeScore        Float       @default(0)
+  contributionScore    Float       @default(0)
+  overallScore         Float       @default(0)
+
+  interviewerNotes     String      @default("")
+  recommendation       String      @default("RECOMMEND") // STRONGLY_RECOMMEND | RECOMMEND | MAYBE | NOT_RECOMMENDED
+  scoredBy             String      @default("Admin")
+
+  createdAt            DateTime    @default(now())
+  updatedAt            DateTime    @updatedAt
+
+  @@unique([participantId, piRoundId])
+}
+
+model FinalResult {
+  id               String      @id @default(uuid())
+  participantId    String      @unique
+  participant      Participant @relation(fields: [participantId], references: [id], onDelete: Cascade)
+
+  applicationScore Float       @default(0)
+  piScoresTotal    Float       @default(0)
+  totalScore       Float       @default(0)
+  finalRank        Int         @default(0)
+  selectionStatus  String      @default("PENDING") // PENDING | SHORTLISTED | SELECTED | REJECTED
+  remarks          String      @default("")
+  finalizedAt      DateTime?
+}
+
+model DocumentImport {
+  id                 String           @id @default(uuid())
+  recruitmentCycleId String
+  recruitmentCycle   RecruitmentCycle @relation(fields: [recruitmentCycleId], references: [id], onDelete: Cascade)
+
+  filename           String
+  fileType           String           @default("PDF")
+  uploadDate         DateTime         @default(now())
+  candidateCount     Int              @default(0)
+  importStatus       String           @default("COMPLETED")
+}
