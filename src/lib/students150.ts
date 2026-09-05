@@ -129,7 +129,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
       "Web Development"
     ],
     "year": "2nd Year",
-    "email": "harshmanipandey.0143@akgec.ac.in",
+    "email": "harshmani.pandey2007@gmail.com",
     "contactNo": "+91 98712 34567",
     "instagramId": "@harsh_pandey_0143",
     "linkedinId": "linkedin.com/in/harsh-mani-pandey",
@@ -144,6 +144,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 2,
     "name": "Kanav garg",
+    "email": "rahulgarg7379@gmail.com",
     "rollNo": "2500331540062",
     "score": 51,
     "branch": "DS",
@@ -157,6 +158,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 3,
     "name": "BHARAT KUMAR JAIN",
+    "email": "kumarjainbharat5@gmail.com",
     "rollNo": "2500330100102",
     "score": 52,
     "branch": "CSE",
@@ -171,6 +173,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 4,
     "name": "Garv Tyagi",
+    "email": "garv312007@gmail.com",
     "rollNo": "250033012044",
     "score": 53,
     "branch": "CS",
@@ -186,6 +189,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 5,
     "name": "RISHABH CHAUDHARY",
+    "email": "rishabh30122006@gmail.com",
     "rollNo": "2500331530245",
     "score": 54,
     "branch": "CSE-AIML",
@@ -200,6 +204,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 6,
     "name": "Rajan mishra",
+    "email": "mishrarajanmishra51@gmail.com",
     "rollNo": "2500330100274",
     "score": 55,
     "branch": "DS",
@@ -214,6 +219,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 7,
     "name": "Arpit Pandey",
+    "email": "arpitpandey2567@gmail.com",
     "rollNo": "2500331530074",
     "score": 56,
     "branch": "CSE-AIML",
@@ -227,6 +233,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 8,
     "name": "Kartikey Awasthi",
+    "email": "kartikeyawasthi69@gmail.com",
     "rollNo": "2500330130045",
     "score": 57,
     "branch": "IT",
@@ -256,6 +263,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 10,
     "name": "Krish Naagar",
+    "email": "krishnagar0055@gmail.com",
     "rollNo": "2500330100175",
     "score": 59,
     "branch": "CSE",
@@ -269,6 +277,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 11,
     "name": "Richa Agnihotri",
+    "email": "richaagnihotri2005@gmail.com",
     "rollNo": "2500331530242",
     "score": 60,
     "branch": "CSE-AIML",
@@ -283,6 +292,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 12,
     "name": "Himanshu Singh",
+    "email": "Himanshusingh1177q@gmail.com",
     "rollNo": "2500330100154",
     "score": 61,
     "branch": "CSE",
@@ -296,6 +306,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 13,
     "name": "Sanskar Bhardwaj",
+    "email": "Sanskaartushar2007@gmail.com",
     "rollNo": "2500330120099",
     "score": 62,
     "branch": "CS",
@@ -309,6 +320,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 14,
     "name": "Vansh kushwaha",
+    "email": "vanshkushwaha4700@gmail.com",
     "rollNo": "2500330120123",
     "score": 63,
     "branch": "CS",
@@ -322,6 +334,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 15,
     "name": "Vanshika pal",
+    "email": "vanshikapal0106@gmail.com",
     "rollNo": "2500330120127",
     "score": 64,
     "branch": "CS",
@@ -335,6 +348,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 16,
     "name": "Nitish Kumar Singh",
+    "email": "nitishkumarsingh.cs@gmail.com",
     "rollNo": "2500331530209",
     "score": 65,
     "branch": "CSE-AIML",
@@ -348,6 +362,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 17,
     "name": "Jahanavi choudhary",
+    "email": "janvichoudha008@gmail.com",
     "rollNo": "2500330100159",
     "score": 66,
     "branch": "CSE",
@@ -362,6 +377,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 18,
     "name": "GRESHI TYAGI",
+    "email": "Greshityagi123@gmail.com",
     "rollNo": "2500331530127",
     "score": 67,
     "branch": "CSE-AIML",
@@ -375,6 +391,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 19,
     "name": "Harshit",
+    "email": "harshit12470@gmail.com",
     "rollNo": "2500330100147",
     "score": 68,
     "branch": "DS",
@@ -389,6 +406,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 20,
     "name": "Kumud",
+    "email": "vashisthkumud24@gmail.com",
     "rollNo": "2500331550061",
     "score": 69,
     "branch": "IoT",
@@ -403,6 +421,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 21,
     "name": "Shivam Yadav",
+    "email": "shivamyadav50510@gmail.com",
     "rollNo": "2500330100325",
     "score": 70,
     "branch": "CSE",
@@ -417,6 +436,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 22,
     "name": "Anushka Saraswat",
+    "email": "Anushkasaraswat31@gmail.com",
     "rollNo": "2500330100067",
     "score": 71,
     "branch": "CSE",
@@ -430,6 +450,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 23,
     "name": "Suyash Gupta",
+    "email": "suyashgupta026@gmail.com",
     "rollNo": "2500330100353",
     "score": 72,
     "branch": "CSE",
@@ -443,6 +464,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 24,
     "name": "Shubham Maurya",
+    "email": "shubhammaurya0308@gmail.com",
     "rollNo": "2500330100334",
     "score": 73,
     "branch": "CSE",
@@ -456,6 +478,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 25,
     "name": "SWASTIK",
+    "email": "swastikkumarprajapati@gmail.com",
     "rollNo": "2500330130087",
     "score": 74,
     "branch": "IT",
@@ -469,6 +492,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 26,
     "name": "Ansh Kumar",
+    "email": "anshk579602@gmail.com",
     "rollNo": "2500330100056",
     "score": 75,
     "branch": "CSE",
@@ -483,6 +507,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 27,
     "name": "Shivam",
+    "email": "shivam3007k@gmail.com",
     "rollNo": "2500330100321",
     "score": 76,
     "branch": "CSE",
@@ -496,6 +521,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 28,
     "name": "Aayushi Malik",
+    "email": "aayushimalik202@gmail.com",
     "rollNo": "2500331530012",
     "score": 77,
     "branch": "CSE-AIML",
@@ -510,6 +536,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 29,
     "name": "Dev Parashar",
+    "email": "devparashar104@gmail.com",
     "rollNo": "2500330120039",
     "score": 78,
     "branch": "CS",
@@ -524,6 +551,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 30,
     "name": "Palak Chauhan",
+    "email": "palakchauhan16032008@gmail.com",
     "rollNo": "2500330100239",
     "score": 79,
     "branch": "CSE",
@@ -538,6 +566,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 31,
     "name": "Amrit Singh",
+    "email": "amritbih2006@gmail.com",
     "rollNo": "2500330130007",
     "score": 80,
     "branch": "IT",
@@ -552,6 +581,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 32,
     "name": "Ananya choudhary",
+    "email": "chaudharyananya267@gmail.com",
     "rollNo": "2500331530051",
     "score": 81,
     "branch": "CSE-AIML",
@@ -566,6 +596,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 33,
     "name": "SHIVANSH RAI",
+    "email": "raishivansh971@gmail.com",
     "rollNo": "2500330100328",
     "score": 82,
     "branch": "CSE",
@@ -580,6 +611,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 34,
     "name": "Shivang Saxena",
+    "email": "shivangs996@gmail.com",
     "rollNo": "2500331530273",
     "score": 83,
     "branch": "CSE-AIML",
@@ -594,6 +626,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 35,
     "name": "Saksham gupta",
+    "email": "saksham0611a@gmail.com",
     "rollNo": "2500330100297",
     "score": 84,
     "branch": "CSE",
@@ -607,6 +640,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 36,
     "name": "Urvashi Chaudhary",
+    "email": "urvashichaudharyc@gmail.com",
     "rollNo": "2500330130094",
     "score": 85,
     "branch": "IT",
@@ -620,6 +654,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 37,
     "name": "Niyati Jain",
+    "email": "250031082@rkgit.edu.in",
     "rollNo": "2500330310058",
     "score": 86,
     "branch": "ECE",
@@ -635,6 +670,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 38,
     "name": "Ronit Pal",
+    "email": "ronit7pal@gmail.com",
     "rollNo": "2500330100290",
     "score": 87,
     "branch": "CSE",
@@ -648,6 +684,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 39,
     "name": "Vishnu Dwivedi",
+    "email": "Vishnudwivedi440@gmail.com",
     "rollNo": "2500330100401",
     "score": 88,
     "branch": "CSE",
@@ -663,6 +700,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 40,
     "name": "Uttam keshari",
+    "email": "ukeshari233@gmail.com",
     "rollNo": "2500330100380",
     "score": 89,
     "branch": "CSE",
@@ -677,6 +715,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 41,
     "name": "Tanishk Tyagi",
+    "email": "t.tyagi2008@gmail.com",
     "rollNo": "2500331540121",
     "score": 90,
     "branch": "CS",
@@ -691,6 +730,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 42,
     "name": "Tripti Sharma",
+    "email": "triptisharma6713@gmail.com",
     "rollNo": "2500330100368",
     "score": 91,
     "branch": "DS",
@@ -704,6 +744,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 43,
     "name": "Gaurav",
+    "email": "gauravkardam9286@gmail.com",
     "rollNo": "2500330310029",
     "score": 92,
     "branch": "ECE",
@@ -717,6 +758,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 44,
     "name": "Vaibhav Sharma",
+    "email": "Vaibhavsharma082007456@gmail.com",
     "rollNo": "2500331530309",
     "score": 93,
     "branch": "CSE-AIML",
@@ -731,6 +773,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 45,
     "name": "Pragya Gupta",
+    "email": "pragyagupta.463@gmail.com",
     "rollNo": "2500331550079",
     "score": 94,
     "branch": "IoT",
@@ -744,6 +787,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 46,
     "name": "Shubham Kumar",
+    "email": "shubhamkumar8668g@gmail.com",
     "rollNo": "2500330100333",
     "score": 50,
     "branch": "CSE",
@@ -757,6 +801,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 47,
     "name": "ATISH YADAV",
+    "email": "atishy120@gmail.com",
     "rollNo": "2500331550035",
     "score": 51,
     "branch": "CS",
@@ -770,6 +815,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 48,
     "name": "Harsh Mishra",
+    "email": "harshmishra2025.ml@gmail.com",
     "rollNo": "2500330100144",
     "score": 52,
     "branch": "CSE",
@@ -784,6 +830,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 49,
     "name": "Tushar kashyap",
+    "email": "tusharkashyap03007@gmail.com",
     "rollNo": "2500330130090",
     "score": 53,
     "branch": "IT",
@@ -799,6 +846,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 50,
     "name": "YASHIKA SHARMA",
+    "email": "sharmayashika416@gmail.com",
     "rollNo": "2500330100409",
     "score": 54,
     "branch": "CSE",
@@ -812,6 +860,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 51,
     "name": "Krishna",
+    "email": "rakeshk37359@gmail.com",
     "rollNo": "2500330000005",
     "score": 55,
     "branch": "Civil",
@@ -827,6 +876,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 52,
     "name": "Dev Srivastava",
+    "email": "dev962400@gmail.com",
     "rollNo": "2500330100117",
     "score": 56,
     "branch": "CSE",
@@ -840,6 +890,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 53,
     "name": "Harsh",
+    "email": "250013175",
     "rollNo": "2500330130029",
     "score": 57,
     "branch": "IT",
@@ -853,6 +904,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 54,
     "name": "Vaishnavi jha",
+    "email": "vaishjhaclg@gmail.com",
     "rollNo": "2500330100385",
     "score": 58,
     "branch": "CSE",
@@ -866,6 +918,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 55,
     "name": "Abhijeet Tomar",
+    "email": "tomarabhijeet357@gmail.com",
     "rollNo": "2500330100006",
     "score": 59,
     "branch": "CSE",
@@ -880,6 +933,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 56,
     "name": "Aryan pandey",
+    "email": "abhaypandeyji32@gmail.com",
     "rollNo": "2500330100078",
     "score": 60,
     "branch": "CSE",
@@ -893,6 +947,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 57,
     "name": "Khwaish",
+    "email": "khwaish.malik7504@gmail.com",
     "rollNo": "2500331530168",
     "score": 61,
     "branch": "CSE-AIML",
@@ -907,6 +962,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 58,
     "name": "Varshika Choudhary",
+    "email": "varshikachoudhary84@gmail.com",
     "rollNo": "2500330120130",
     "score": 62,
     "branch": "CS",
@@ -920,6 +976,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 59,
     "name": "Anmol Jawla",
+    "email": "anmoljawla01@gmail.com",
     "rollNo": "2500330120016",
     "score": 63,
     "branch": "CS",
@@ -933,6 +990,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 60,
     "name": "Madhur Singhal",
+    "email": "sarveshh285@gmail.com",
     "rollNo": "250330120064",
     "score": 64,
     "branch": "CS",
@@ -947,6 +1005,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 61,
     "name": "Neha Dixit",
+    "email": "dixitneha118@gmail.com",
     "rollNo": "2500331530203",
     "score": 65,
     "branch": "CSE-AIML",
@@ -960,6 +1019,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 62,
     "name": "Vipul Tyagi",
+    "email": "vtyagi1180@gmail.com",
     "rollNo": "2500331540133",
     "score": 66,
     "branch": "CS",
@@ -974,6 +1034,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 63,
     "name": "Tanvi Mishra",
+    "email": "tanvi.mishra.tannu@gmail.com",
     "rollNo": "2500330120116",
     "score": 67,
     "branch": "CS",
@@ -987,6 +1048,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 64,
     "name": "Nabya Noor",
+    "email": "tonabyanoor@gmail.com",
     "rollNo": "2500330120076",
     "score": 68,
     "branch": "CS",
@@ -1000,6 +1062,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 65,
     "name": "Ashutosh giri",
+    "email": "raj.ash2493@gmail.com",
     "rollNo": "2500331530089",
     "score": 69,
     "branch": "CSE-AIML",
@@ -1015,6 +1078,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 66,
     "name": "Lucky kumar gupta",
+    "email": "luckygupta56682@gmail.com",
     "rollNo": "2500330310052",
     "score": 70,
     "branch": "ECE",
@@ -1028,6 +1092,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 67,
     "name": "Ambika Tyagi",
+    "email": "ambika22tyagi@gmail.com",
     "rollNo": "2500330100044",
     "score": 71,
     "branch": "CSE",
@@ -1041,6 +1106,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 68,
     "name": "Naman Tyagi",
+    "email": "nt9599377@gmail.com",
     "rollNo": "2500330100222",
     "score": 72,
     "branch": "CSE",
@@ -1055,6 +1121,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 69,
     "name": "Aanchal Tiwari",
+    "email": "anchalti103@gmail.com",
     "rollNo": "2500331530003",
     "score": 73,
     "branch": "CSE-AIML",
@@ -1069,6 +1136,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 70,
     "name": "Aditya Pandey",
+    "email": "adityapandey9454@gmail.com",
     "rollNo": "2500330130003",
     "score": 74,
     "branch": "IT",
@@ -1082,6 +1150,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 71,
     "name": "Prabhat Kumar Yadav",
+    "email": "yadavprabhatkumar367@gmail.com",
     "rollNo": "2500331550078",
     "score": 75,
     "branch": "IoT",
@@ -1096,6 +1165,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 72,
     "name": "Aashutosh Sharma",
+    "email": "eduaashutosh@gmail.com",
     "rollNo": "2500331530009",
     "score": 76,
     "branch": "CSE-AIML",
@@ -1109,6 +1179,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 73,
     "name": "Rishabh seth",
+    "email": "sethrishu8@gmail.com",
     "rollNo": "2500330100281",
     "score": 77,
     "branch": "CSE",
@@ -1122,6 +1193,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 74,
     "name": "Qazi Ayan",
+    "email": "ayanqazi837@gmail.com",
     "rollNo": "2500330100269",
     "score": 78,
     "branch": "CSE",
@@ -1135,6 +1207,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 75,
     "name": "Ayush Singh",
+    "email": "ayushsinghnew1008@gmail.com",
     "rollNo": "2500330100095",
     "score": 79,
     "branch": "CSE",
@@ -1148,6 +1221,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 76,
     "name": "Avnish kumar verma",
+    "email": "a33010171@gmail.com",
     "rollNo": "2500330100090",
     "score": 80,
     "branch": "CSE",
@@ -1161,6 +1235,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 77,
     "name": "Kartik",
+    "email": "kartikumar7830@gmail.com",
     "rollNo": "2500330100166",
     "score": 81,
     "branch": "CSE",
@@ -1174,6 +1249,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 78,
     "name": "Kritika",
+    "email": "Kritikaa967@gmail.com",
     "rollNo": "2500331540073",
     "score": 82,
     "branch": "DS",
@@ -1188,6 +1264,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 79,
     "name": "Sameer",
+    "email": "sm2378922@gmail.com",
     "rollNo": "2500331530260",
     "score": 83,
     "branch": "CSE-AIML",
@@ -1202,6 +1279,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 80,
     "name": "AKSHITA",
+    "email": "akshitasharma4057@gmail.com",
     "rollNo": "2500331530040",
     "score": 84,
     "branch": "CSE-AIML",
@@ -1216,6 +1294,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 81,
     "name": "Aditya Sharma",
+    "email": "adityasharma12003@gmail.com",
     "rollNo": "2400330100037",
     "score": 85,
     "branch": "CSE",
@@ -1229,6 +1308,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 82,
     "name": "Sumit Chauhan",
+    "email": "sumitchauhan3008@gmail.com",
     "rollNo": "2500331540119",
     "score": 86,
     "branch": "DS",
@@ -1243,6 +1323,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 83,
     "name": "Sahban Ali",
+    "email": "alianwarali419@gmail.com",
     "rollNo": "2500330100295",
     "score": 87,
     "branch": "CSE",
@@ -1257,6 +1338,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 84,
     "name": "Ujjawal Thakur",
+    "email": "ujjawalthakur896@gmail.com",
     "rollNo": "2500330100375",
     "score": 88,
     "branch": "CSE",
@@ -1271,6 +1353,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 85,
     "name": "Mahi Verma",
+    "email": "mahiv3890@gmail.com",
     "rollNo": "2500331550064",
     "score": 89,
     "branch": "IoT",
@@ -1284,6 +1367,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 86,
     "name": "Rimjhim Jindal",
+    "email": "rimjhimjindal146@gmail.com",
     "rollNo": "2500330100279",
     "score": 90,
     "branch": "CSE",
@@ -1299,6 +1383,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 87,
     "name": "Mahi pal",
+    "email": "mahipal172006@gmail.com",
     "rollNo": "2500330120066",
     "score": 91,
     "branch": "CS",
@@ -1313,6 +1398,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 88,
     "name": "Devesh Kumar Thakur",
+    "email": "250010119@gmail.com",
     "rollNo": "2500330100120",
     "score": 92,
     "branch": "CSE",
@@ -1326,6 +1412,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 89,
     "name": "Sneha",
+    "email": "Snehachahal012@gmail.com",
     "rollNo": "2500330100341",
     "score": 93,
     "branch": "CSE",
@@ -1339,6 +1426,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 90,
     "name": "Aanya Choudhary",
+    "email": "aanyachoudhary579@gmail.com",
     "rollNo": "2500330120003",
     "score": 94,
     "branch": "CS",
@@ -1353,6 +1441,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 91,
     "name": "Akshara",
+    "email": "aksharajindal1310@gmail.com",
     "rollNo": "2500331550012",
     "score": 50,
     "branch": "IoT",
@@ -1367,6 +1456,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 92,
     "name": "Ishita Pundir",
+    "email": "ishitapundir92@gmail.com",
     "rollNo": "2500330120052",
     "score": 51,
     "branch": "CS",
@@ -1381,6 +1471,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 93,
     "name": "Tejasvi Tomar",
+    "email": "tejasvitomar360@gmail.com",
     "rollNo": "2500330120119",
     "score": 52,
     "branch": "CS",
@@ -1394,6 +1485,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 94,
     "name": "Meenu",
+    "email": "meenuraghav755@gmail.com",
     "rollNo": "2500331540078",
     "score": 53,
     "branch": "DS",
@@ -1407,6 +1499,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 95,
     "name": "Ansh Chaudhary",
+    "email": "gujjaransh373@gmail.com",
     "rollNo": "2500330100055",
     "score": 54,
     "branch": "CSE",
@@ -1420,6 +1513,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 96,
     "name": "Khushi Tyagi",
+    "email": "tyagikhushi924@gmail.com",
     "rollNo": "2500331530166",
     "score": 55,
     "branch": "CSE-AIML",
@@ -1433,6 +1527,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 97,
     "name": "Aditya Rawat",
+    "email": "ar8541994@gmail.com",
     "rollNo": "2500330120011",
     "score": 56,
     "branch": "CS",
@@ -1446,6 +1541,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 98,
     "name": "Aditi Chauhan",
+    "email": "aditi2006chauhan@gmail.com",
     "rollNo": "2500330120009",
     "score": 57,
     "branch": "CS",
@@ -1460,6 +1556,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 99,
     "name": "Anmol Raghav",
+    "email": "raghavgavendra06@gmail.com",
     "rollNo": "2500331540017",
     "score": 58,
     "branch": "DS",
@@ -1473,6 +1570,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 100,
     "name": "Shreyansh Bisht",
+    "email": "shreyanshbisht74@gmail.com",
     "rollNo": "2500331530279",
     "score": 59,
     "branch": "CSE-AIML",
@@ -1487,6 +1585,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 101,
     "name": "Ashwani Tyagi",
+    "email": "tyagiashwani784@gmail.com",
     "rollNo": "2500330100081",
     "score": 60,
     "branch": "CSE",
@@ -1500,6 +1599,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 102,
     "name": "Ishika Tyagi",
+    "email": "ishikatyagi745@gmail.com",
     "rollNo": "2500331540057",
     "score": 61,
     "branch": "DS",
@@ -1514,6 +1614,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 103,
     "name": "Nityansh Gupta",
+    "email": "nityanshgupta93@gmail.com",
     "rollNo": "2500330100234",
     "score": 62,
     "branch": "CSE",
@@ -1528,6 +1629,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 104,
     "name": "Anurag bind",
+    "email": "bindanurag619@gmail.com",
     "rollNo": "2500330100064",
     "score": 63,
     "branch": "CSE",
@@ -1542,6 +1644,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 105,
     "name": "Pragya",
+    "email": "ashish79garg@gmail.com",
     "rollNo": "2500330120084",
     "score": 64,
     "branch": "CS",
@@ -1555,6 +1658,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 106,
     "name": "Yash Raj",
+    "email": "yashraj960734@gmail.com",
     "rollNo": "2500331530335",
     "score": 65,
     "branch": "CSE-AIML",
@@ -1568,6 +1672,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 107,
     "name": "Kanishk Sharma",
+    "email": "kanishksharma9717@gmail.com",
     "rollNo": "2500330100164",
     "score": 66,
     "branch": "CSE",
@@ -1581,6 +1686,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 108,
     "name": "Anshika Mohan",
+    "email": "anshikamohanaashi2006@gmail.com",
     "rollNo": "2500330120018",
     "score": 67,
     "branch": "CS",
@@ -1594,6 +1700,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 109,
     "name": "Aaradhya Saini",
+    "email": "aradhyasaini.7505@gmail.com",
     "rollNo": "2500330310016",
     "score": 68,
     "branch": "ECE",
@@ -1608,6 +1715,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 110,
     "name": "Akshita Rawat",
+    "email": "akshitarwt.17@gmail.com",
     "rollNo": "2500331530041",
     "score": 69,
     "branch": "CSE-AIML",
@@ -1621,6 +1729,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 111,
     "name": "Anushka verma",
+    "email": "anushka87551@gmail.com",
     "rollNo": "2500330120021",
     "score": 70,
     "branch": "CS",
@@ -1634,6 +1743,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 112,
     "name": "Pranav gupta",
+    "email": "pranav.gupta8398@gmail.com",
     "rollNo": "2500331550080",
     "score": 71,
     "branch": "IoT",
@@ -1647,6 +1757,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 113,
     "name": "Harsh vikal",
+    "email": "harshvikal52@gmail.com",
     "rollNo": "2500331530136",
     "score": 72,
     "branch": "CSE-AIML",
@@ -1661,6 +1772,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 114,
     "name": "Vinay Shankar Singh",
+    "email": "kripash40@gmail.com",
     "rollNo": "2500331530318",
     "score": 73,
     "branch": "CSE-AIML",
@@ -1674,6 +1786,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 115,
     "name": "Tanish Goswami",
+    "email": "goswamitanish315@gmail.com",
     "rollNo": "2500330130088",
     "score": 74,
     "branch": "IT",
@@ -1687,6 +1800,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 116,
     "name": "Anjali Kandwal",
+    "email": "anjalikandwal88@gmial.com",
     "rollNo": "2500331550021",
     "score": 75,
     "branch": "IoT",
@@ -1701,6 +1815,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 117,
     "name": "Sarvesh kumar mishra",
+    "email": "msarvesh794@gmail.com",
     "rollNo": "2500330100311",
     "score": 76,
     "branch": "CSE",
@@ -1714,6 +1829,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 118,
     "name": "Anshika Goyal",
+    "email": "anshikagoyal550@gmail.com",
     "rollNo": "2500330100058",
     "score": 77,
     "branch": "CSE",
@@ -1727,6 +1843,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 119,
     "name": "Roshan",
+    "email": "r32019216@gmail.com",
     "rollNo": "2500330100291",
     "score": 78,
     "branch": "CSE",
@@ -1741,6 +1858,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 120,
     "name": "Krishna Chaubey",
+    "email": "krishnachauey@gmail.com",
     "rollNo": "250033100176",
     "score": 79,
     "branch": "CSE",
@@ -1755,6 +1873,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 121,
     "name": "Mohd Adil siddiqui",
+    "email": "sharif16y@gmail.com",
     "rollNo": "2400331530083",
     "score": 80,
     "branch": "CSE-AIML",
@@ -1770,6 +1889,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 122,
     "name": "Naman Goel",
+    "email": "namangoel792@gmail.com",
     "rollNo": "09517702725",
     "score": 81,
     "branch": "CSE",
@@ -1784,6 +1904,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 123,
     "name": "Aditya Shukla",
+    "email": "adityashukla8804@gmail.com",
     "rollNo": "2500330100025",
     "score": 82,
     "branch": "CSE",
@@ -1798,6 +1919,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 124,
     "name": "Abhinav Anand",
+    "email": "abhinavanand0508@gmail.com",
     "rollNo": "2500330100009",
     "score": 83,
     "branch": "CSE",
@@ -1811,6 +1933,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 125,
     "name": "Keshav tyagi 105 Male",
+    "email": "keshavtyagi9389@gmail.com",
     "rollNo": "9389128546",
     "score": 84,
     "branch": "CSE",
@@ -1826,6 +1949,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 126,
     "name": "Gunjan",
+    "email": "gunjansinghas009@gmail.com",
     "rollNo": "2500330130027",
     "score": 85,
     "branch": "IT",
@@ -1839,6 +1963,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 127,
     "name": "Nistha tyagi",
+    "email": "tyaginistha17@gmail.com",
     "rollNo": "2500331540089",
     "score": 86,
     "branch": "DS",
@@ -1853,6 +1978,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 128,
     "name": "Sonu Kumar",
+    "email": "sonuk7254062054@gmail.com",
     "rollNo": "2500330310084",
     "score": 87,
     "branch": "ECE",
@@ -1866,6 +1992,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 129,
     "name": "Anand singh",
+    "email": "anandsinhh23@gmail.com",
     "rollNo": "2500330100047",
     "score": 88,
     "branch": "CSE",
@@ -1879,6 +2006,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 130,
     "name": "Arpit singh",
+    "email": "arpitsinhh637@gmail.com",
     "rollNo": "2500330100074",
     "score": 89,
     "branch": "CSE",
@@ -1892,6 +2020,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 131,
     "name": "Armaan",
+    "email": "Choudharyarmaan111@gmail.com",
     "rollNo": "2500331530071",
     "score": 90,
     "branch": "CSE-AIML",
@@ -1906,6 +2035,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 132,
     "name": "Tushar Aggarwal",
+    "email": "aggarwaltushar43@gmail.com",
     "rollNo": "2500330100370",
     "score": 91,
     "branch": "CSE",
@@ -1919,6 +2049,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 133,
     "name": "Divyansh Sharma",
+    "email": "ds3741777@gmail.com",
     "rollNo": "2500331530116",
     "score": 92,
     "branch": "CSE-AIML",
@@ -1932,6 +2063,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 134,
     "name": "Dev Vardhan",
+    "email": "dev0vardhan@gmail.com",
     "rollNo": "2500331530109",
     "score": 93,
     "branch": "CSE-AIML",
@@ -1945,6 +2077,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 135,
     "name": "Vidushi Chaudhary",
+    "email": "cvidushi3008@icloud.com",
     "rollNo": "2500331530316",
     "score": 94,
     "branch": "CSE-AIML",
@@ -1959,6 +2092,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 136,
     "name": "Sapna gupta",
+    "email": "sapnagupta20102008@gmail.com",
     "rollNo": "2500331540105",
     "score": 50,
     "branch": "DS",
@@ -1973,6 +2107,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 137,
     "name": "Bhavya Singh",
+    "email": "singhbhavya098@gmail.com",
     "rollNo": "2500330100104",
     "score": 51,
     "branch": "CSE",
@@ -1987,6 +2122,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 138,
     "name": "Adarsh",
+    "email": "adarshji8678@gmail.com",
     "rollNo": "2500330100019",
     "score": 52,
     "branch": "CSE",
@@ -2002,6 +2138,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 139,
     "name": "Aarti Sharma",
+    "email": "aartisharma14580@gmail.com",
     "rollNo": "2500331530008",
     "score": 53,
     "branch": "CSE-AIML",
@@ -2017,6 +2154,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 140,
     "name": "Khushi",
+    "email": "Kchaurasiya685@gmail.com",
     "rollNo": "2500331530162",
     "score": 54,
     "branch": "CSE-AIML",
@@ -2031,6 +2169,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 141,
     "name": "Jai Kumar Sharma",
+    "email": "jaikumarsh90@gmail.com",
     "rollNo": "2500331540058",
     "score": 55,
     "branch": "DS",
@@ -2045,6 +2184,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 142,
     "name": "Avishi Singh",
+    "email": "pvtavishi31@gmail.com",
     "rollNo": "2500330100088",
     "score": 56,
     "branch": "CSE",
@@ -2059,6 +2199,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 143,
     "name": "Chhavi Sharma",
+    "email": "chavvisharma312@gmail.com",
     "rollNo": "2500330100106",
     "score": 57,
     "branch": "CSE",
@@ -2073,6 +2214,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 144,
     "name": "Madhav Sharma",
+    "email": "sharma09012009@gmail.com",
     "rollNo": "2500330100190",
     "score": 58,
     "branch": "CSE",
@@ -2087,6 +2229,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 145,
     "name": "Akshay kushwaha",
+    "email": "akshaykush2410@gmail.com",
     "rollNo": "2500331550014",
     "score": 59,
     "branch": "IoT",
@@ -2101,6 +2244,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 146,
     "name": "Nishant kumar",
+    "email": "nishantkumar8178714039@gmail.com",
     "rollNo": "2500331550075",
     "score": 60,
     "branch": "IoT",
@@ -2114,6 +2258,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 147,
     "name": "Vaishnavi baranwal",
+    "email": "baranwalvaishnavivns@gmail.com",
     "rollNo": "2500331540129",
     "score": 61,
     "branch": "DS",
@@ -2127,6 +2272,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 148,
     "name": "Monika Pal",
+    "email": "monika92006@gmail.com",
     "rollNo": "2500230100217",
     "score": 62,
     "branch": "CSE",
@@ -2140,6 +2286,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 149,
     "name": "Vineet Bajpai",
+    "email": "vineetbajpai1405@gmail.com",
     "rollNo": "2500330120132",
     "score": 63,
     "branch": "CS",
@@ -2153,6 +2300,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 150,
     "name": "Ritika Aggarwal",
+    "email": "aggarwalritika08@gmail.com",
     "rollNo": "2500330100285",
     "score": 64,
     "branch": "CSE",
@@ -2166,6 +2314,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 151,
     "name": "Lucky saini",
+    "email": "250154011",
     "rollNo": "2500331530179",
     "score": 65,
     "branch": "CSE-AIML",
@@ -2180,6 +2329,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 152,
     "name": "Gungun",
+    "email": "Gungunprakash65@gmail.com",
     "rollNo": "2503330100056",
     "score": 66,
     "branch": "CSE",
@@ -2193,6 +2343,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 153,
     "name": "Parteek",
+    "email": "prateekgupta88821@gmail.com",
     "rollNo": "2500330100245",
     "score": 67,
     "branch": "CSE",
@@ -2207,6 +2358,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 154,
     "name": "Garima Singh",
+    "email": "singhgarima7481@gmail.com",
     "rollNo": "2500330100133",
     "score": 68,
     "branch": "CSE",
@@ -2220,6 +2372,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 155,
     "name": "Khushi chaudhary",
+    "email": "khushidagar40@gmail.com",
     "rollNo": "2500331530163",
     "score": 69,
     "branch": "CSE-AIML",
@@ -2234,6 +2387,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 156,
     "name": "Khushi Singh",
+    "email": "singhkhushi9469@gmail.com",
     "rollNo": "2500331530164",
     "score": 70,
     "branch": "CSE-AIML",
@@ -2248,6 +2402,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 157,
     "name": "Garima Poonia",
+    "email": "garimapoonia0123@gmail.com",
     "rollNo": "2500330120046",
     "score": 71,
     "branch": "CS",
@@ -2261,6 +2416,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 158,
     "name": "Anshika rao",
+    "email": "anshikarao0001@gmail.com",
     "rollNo": "2500330100059",
     "score": 72,
     "branch": "CSE",
@@ -2274,6 +2430,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 159,
     "name": "Priyanshu Joshi",
+    "email": "priyanshujoshi1820@gmail.com",
     "rollNo": "2500331530226",
     "score": 73,
     "branch": "CSE-AIML",
@@ -2289,6 +2446,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 160,
     "name": "Ananya Shukla",
+    "email": "shuklaananya762@gmail.com",
     "rollNo": "2500331550019",
     "score": 74,
     "branch": "IoT",
@@ -2302,6 +2460,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 161,
     "name": "Mansi",
+    "email": "mansirajput75799@gmail.com",
     "rollNo": "2500331550066",
     "score": 75,
     "branch": "IoT",
@@ -2315,6 +2474,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 162,
     "name": "Vanshika Tyagi",
+    "email": "250010112@rkgit.edu.in",
     "rollNo": "2500330120124",
     "score": 76,
     "branch": "CS",
@@ -2329,6 +2489,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 163,
     "name": "Sneha Tripathi",
+    "email": "snehatripathi4560@gmail.com",
     "rollNo": "2500330120110",
     "score": 77,
     "branch": "CS",
@@ -2343,6 +2504,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 164,
     "name": "Payal",
+    "email": "payalsingh49651@gmail.com",
     "rollNo": "2500330100247",
     "score": 78,
     "branch": "CSE",
@@ -2356,6 +2518,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 165,
     "name": "Malay Shukla",
+    "email": "shuklamalay224@gmail.com",
     "rollNo": "2500330120067",
     "score": 79,
     "branch": "CS",
@@ -2370,6 +2533,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 166,
     "name": "Himanshu Singh",
+    "email": "Himanshusingh1177q@gmail.com",
     "rollNo": "2500330100153",
     "score": 80,
     "branch": "CSE",
@@ -2384,6 +2548,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 167,
     "name": "Anupriya kashyap",
+    "email": "Anupriyakashyap.888@gmail.com",
     "rollNo": "2500331540020",
     "score": 81,
     "branch": "DS",
@@ -2397,6 +2562,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 168,
     "name": "Nitya",
+    "email": "srivastavanitya19@gmail.com",
     "rollNo": "2500330100232",
     "score": 82,
     "branch": "CSE",
@@ -2410,6 +2576,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 169,
     "name": "Tarushi Srivastava",
+    "email": "tarushisrivastava926@gmail.com",
     "rollNo": "2500330100366",
     "score": 83,
     "branch": "CSE",
@@ -2424,6 +2591,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 170,
     "name": "Ayush Dhillon",
+    "email": "choudharyayush006@gmail.com",
     "rollNo": "2500331530094",
     "score": 84,
     "branch": "CSE-AIML",
@@ -2438,6 +2606,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 171,
     "name": "MOLI TYAGI",
+    "email": "molityagi687@gmail.com",
     "rollNo": "2500331020075",
     "score": 85,
     "branch": "CS",
@@ -2451,6 +2620,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 172,
     "name": "Wagisha pandey",
+    "email": "wagisha1105@gmail.com",
     "rollNo": "2500331540134",
     "score": 86,
     "branch": "DS",
@@ -2464,6 +2634,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 173,
     "name": "Anushka Srivastava",
+    "email": "anushkasrivastava2022@gmail.com",
     "rollNo": "2500330100068",
     "score": 87,
     "branch": "CSE",
@@ -2478,6 +2649,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 174,
     "name": "Gauri Mishra",
+    "email": "gaurimishra0105@gmail.com",
     "rollNo": "2500330130025",
     "score": 88,
     "branch": "IT",
@@ -2491,6 +2663,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 175,
     "name": "Abhinav Tyagi",
+    "email": "abhinavtyagi74904@gmail.com",
     "rollNo": "2500331540005",
     "score": 89,
     "branch": "DS",
@@ -2505,6 +2678,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 176,
     "name": "UDIT NARAYAN YADAV",
+    "email": "fanmycooler@gmail.com",
     "rollNo": "2500330100374",
     "score": 90,
     "branch": "CSE",
@@ -2518,6 +2692,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 177,
     "name": "Devansh",
+    "email": "vdevansh591@gmail.com",
     "rollNo": "2500330100119",
     "score": 91,
     "branch": "CSE",
@@ -2532,6 +2707,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 178,
     "name": "Shreya Jaiswal",
+    "email": "jaiswalshreya306@gmail.com",
     "rollNo": "2500331550101",
     "score": 92,
     "branch": "IoT",
@@ -2545,6 +2721,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 179,
     "name": "Aarav kaushik",
+    "email": "vs316056@gmail.com",
     "rollNo": "2500331530005",
     "score": 93,
     "branch": "CSE-AIML",
@@ -2559,6 +2736,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 180,
     "name": "Saksham Verma",
+    "email": "1saksham23@gmail.com",
     "rollNo": "2500330120096",
     "score": 94,
     "branch": "CS",
@@ -2573,6 +2751,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 181,
     "name": "Vinay sharma",
+    "email": "vinaysvd454@gmail.com",
     "rollNo": "2500330100399",
     "score": 50,
     "branch": "CSE",
@@ -2586,6 +2765,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 182,
     "name": "Swati Keshari",
+    "email": "swatikeshari6387@gmail.com",
     "rollNo": "2500330100355",
     "score": 51,
     "branch": "CSE",
@@ -2599,6 +2779,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 183,
     "name": "Ayush Sinha",
+    "email": "as.ayushh1@gmail.com",
     "rollNo": "2500330120031",
     "score": 52,
     "branch": "CS",
@@ -2612,6 +2793,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 184,
     "name": "Krislay Kumar Prajapati",
+    "email": "krislaykumarprajapati@gmail.com",
     "rollNo": "2500330100178",
     "score": 53,
     "branch": "CSE",
@@ -2625,6 +2807,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 185,
     "name": "Kaushal Kumar",
+    "email": "kaushal638893@gmail.com",
     "rollNo": "2500331530159",
     "score": 54,
     "branch": "CSE-AIML",
@@ -2639,6 +2822,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 186,
     "name": "Ashirvaad Srivastava",
+    "email": "ashirvaadsrivastava@gmail.com",
     "rollNo": "2500331530087",
     "score": 55,
     "branch": "CSE-AIML",
@@ -2652,6 +2836,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 187,
     "name": "Aryan rathi",
+    "email": "aryanrathijat@gmail.com",
     "rollNo": "2500331530083",
     "score": 56,
     "branch": "CSE-AIML",
@@ -2666,6 +2851,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 188,
     "name": "Anushka pawar",
+    "email": "anushkap925@gmail.com",
     "rollNo": "2500330100065",
     "score": 57,
     "branch": "CSE",
@@ -2679,6 +2865,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 189,
     "name": "Vanshika Agrawal",
+    "email": "vanshikaagrawal4488@gmail.com",
     "rollNo": "2500330100392",
     "score": 58,
     "branch": "CSE",
@@ -2692,6 +2879,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 190,
     "name": "Riya Tyagi",
+    "email": "riyatyagi825@gmail.com",
     "rollNo": "2500331540100",
     "score": 59,
     "branch": "DS",
@@ -2705,6 +2893,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 191,
     "name": "Utkarsh Pandey",
+    "email": "ansh",
     "rollNo": "2500330100379",
     "score": 60,
     "branch": "CSE",
@@ -2719,6 +2908,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 192,
     "name": "Gungun saxena",
+    "email": "gungunsaxena282@gmail.com",
     "rollNo": "2500331530128",
     "score": 61,
     "branch": "CSE-AIML",
@@ -2733,6 +2923,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 193,
     "name": "Varun Sharma",
+    "email": "Varunkumarsharmavks000@gmail.com",
     "rollNo": "2500330100396",
     "score": 62,
     "branch": "CSE",
@@ -2746,6 +2937,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 194,
     "name": "Vanshika Tyagi",
+    "email": "250010112@rkgit.edu.in",
     "rollNo": "2500330100394",
     "score": 63,
     "branch": "CSE",
@@ -2759,6 +2951,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 195,
     "name": "Hari Kishor Tomar",
+    "email": "ad4774687@gmail.com",
     "rollNo": "2500330100141",
     "score": 64,
     "branch": "CSE",
@@ -2772,6 +2965,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 196,
     "name": "Ridhima Agarwal",
+    "email": "ridhima30082007@gmail.com",
     "rollNo": "2500330100278",
     "score": 65,
     "branch": "CSE",
@@ -2785,6 +2979,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 197,
     "name": "Neeiv Verma",
+    "email": "neeivverma130@gmail.com",
     "rollNo": "2500331550073",
     "score": 66,
     "branch": "IoT",
@@ -2798,6 +2993,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 198,
     "name": "Anshul chaudhary",
+    "email": "anshulchaudhary9759@gmail.com",
     "rollNo": "2500330100061",
     "score": 67,
     "branch": "CSE",
@@ -2811,6 +3007,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 199,
     "name": "ankit kumar sarsawat",
+    "email": "ankitkumarsaraswat6@gmail.com",
     "rollNo": "2500330100052",
     "score": 68,
     "branch": "CSE",
@@ -2824,6 +3021,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 200,
     "name": "Arpit Tomar",
+    "email": "arpittomarr0123@gmail.com",
     "rollNo": "2500331530076",
     "score": 69,
     "branch": "CSE-AIML",
@@ -2837,6 +3035,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 201,
     "name": "Janhit singh",
+    "email": "janhitsingh100@gmail.com",
     "rollNo": "2500330100160",
     "score": 70,
     "branch": "IT",
@@ -2850,6 +3049,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 202,
     "name": "Vishesh Singhal",
+    "email": "singhalvishesh2007@gmail.com",
     "rollNo": "2500331530323",
     "score": 71,
     "branch": "CSE-AIML",
@@ -2864,6 +3064,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 203,
     "name": "Palak Tyagi",
+    "email": "eduvert77@gmail.com",
     "rollNo": "2500330100241",
     "score": 72,
     "branch": "CSE",
@@ -2877,6 +3078,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 204,
     "name": "Rajveer",
+    "email": "mahajanrajveer4@gmail.com",
     "rollNo": "2500331530237",
     "score": 73,
     "branch": "CSE-AIML",
@@ -2892,6 +3094,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 205,
     "name": "Srishti Tyagi",
+    "email": "srishtityagi2323@gmail.com",
     "rollNo": "2500330100342",
     "score": 74,
     "branch": "CSE",
@@ -2905,6 +3108,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 206,
     "name": "Tarush Mishra",
+    "email": "Mr",
     "rollNo": "2500330100365",
     "score": 75,
     "branch": "CSE",
@@ -2918,6 +3122,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 207,
     "name": "APEKSHA GUPTA",
+    "email": "guptaapekshaaa.25@gmail.com",
     "rollNo": "2500330120022",
     "score": 76,
     "branch": "CS",
@@ -2931,6 +3136,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 208,
     "name": "Kashvi Goel",
+    "email": "goelkashvi644@gmail.com",
     "rollNo": "2500331530157",
     "score": 77,
     "branch": "CSE-AIML",
@@ -2945,6 +3151,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 209,
     "name": "Mukul kumar",
+    "email": "muk.kumar2414@gmail.com",
     "rollNo": "2500331540082",
     "score": 78,
     "branch": "DS",
@@ -2958,6 +3165,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 210,
     "name": "Abhay Chauhan",
+    "email": "abhay70155@gmail.com",
     "rollNo": "2500330120006",
     "score": 79,
     "branch": "CS",
@@ -2973,6 +3181,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 211,
     "name": "Ankita Singh Patel",
+    "email": "ankitasinghpatel230@gmail.com",
     "rollNo": "2500330100053",
     "score": 80,
     "branch": "CSE",
@@ -2986,6 +3195,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 212,
     "name": "Karan tyagi",
+    "email": "karantyagi1804@gmail.com",
     "rollNo": "2500330120056",
     "score": 81,
     "branch": "CS",
@@ -2999,6 +3209,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 213,
     "name": "Anshika singh",
+    "email": "anshikasingh8d8@gmail.com",
     "rollNo": "2500331530062",
     "score": 82,
     "branch": "CSE-AIML",
@@ -3013,6 +3224,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 214,
     "name": "Abhinav Chauhan",
+    "email": "chauhanabhinav2637@gmail.com",
     "rollNo": "2500330100010",
     "score": 83,
     "branch": "CSE",
@@ -3027,6 +3239,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 215,
     "name": "Shagun Chaudhary",
+    "email": "schaudhary9297@gmail.com",
     "rollNo": "2500330100317",
     "score": 84,
     "branch": "CSE",
@@ -3040,6 +3253,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 216,
     "name": "Riya kumari",
+    "email": "Riyatiwarimth@gmail.com",
     "rollNo": "2500330130070",
     "score": 85,
     "branch": "IT",
@@ -3053,6 +3267,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 217,
     "name": "RAJ YADAV",
+    "email": "nprajyadav333@gmail.com",
     "rollNo": "2500330100273",
     "score": 86,
     "branch": "DS",
@@ -3067,6 +3282,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 218,
     "name": "Mohd Amaan",
+    "email": "mohdamaan21oct@gmail.com",
     "rollNo": "2500330100211",
     "score": 87,
     "branch": "CSE",
@@ -3081,6 +3297,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 219,
     "name": "Lakshya Jindal",
+    "email": "jindallakshya.17@gmail.com",
     "rollNo": "250012078",
     "score": 88,
     "branch": "CSE",
@@ -3095,6 +3312,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 220,
     "name": "Bhakti Goel",
+    "email": "bhaktigoel01@gmail.com",
     "rollNo": "2500330100100",
     "score": 89,
     "branch": "CSE",
@@ -3109,6 +3327,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 221,
     "name": "Vaibhav Dobriyal",
+    "email": "vaibhavdobriyal91225@gmail.com",
     "rollNo": "2500331530308",
     "score": 90,
     "branch": "CSE-AIML",
@@ -3122,6 +3341,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 222,
     "name": "Avinash Giri",
+    "email": "avinashgiri2107@gmail.com",
     "rollNo": "2500330100087",
     "score": 91,
     "branch": "CSE",
@@ -3136,6 +3356,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 223,
     "name": "Diksha Kapoor",
+    "email": "dikshakapoor61207@gmail.com",
     "rollNo": "2500331540049",
     "score": 92,
     "branch": "DS",
@@ -3151,6 +3372,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 224,
     "name": "Sarthak pandey",
+    "email": "sarthak.pandey1245@gmail.com",
     "rollNo": "2500330100308",
     "score": 93,
     "branch": "CSE",
@@ -3164,6 +3386,7 @@ const RAW_OFFICIAL_SHORTLIST: ShortlistedStudent[] = [
   {
     "rank": 225,
     "name": "Arjun Malik",
+    "email": "arjunmalikm91@gmail.com",
     "rollNo": "2500331540023",
     "score": 94,
     "branch": "DS",
