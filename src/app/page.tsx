@@ -417,10 +417,11 @@ export default function Dashboard() {
   // Submit PI Evaluation Score
   const handleScoreSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    if (!evalCandidateId || !selectedRoundId) {
-      setScoringMsg('Please select a candidate and a PI round.');
+    if (!evalCandidateId) {
+      setScoringMsg('Please select a candidate to evaluate.');
       return;
     }
+    const targetRoundId = selectedRoundId || piRounds[0]?.id || 'round-1';
     setSubmittingScore(true);
     setScoringMsg('');
     try {
@@ -429,7 +430,7 @@ export default function Dashboard() {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           participantId: evalCandidateId,
-          piRoundId: selectedRoundId,
+          piRoundId: targetRoundId,
           ...scores,
           interviewerNotes,
           recommendation,
@@ -1448,43 +1449,23 @@ export default function Dashboard() {
                 <form onSubmit={handleScoreSubmit} className="space-y-6">
                   
                   {/* Candidate Selection Row */}
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                    <div>
-                      <label className={`block text-xs font-bold mb-1.5 ${isCute ? 'text-[#67A2C5]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FF8383]'}`}>
-                        Select Candidate *
-                      </label>
-                      <select
-                        value={evalCandidateId}
-                        onChange={(e) => setEvalCandidateId(e.target.value)}
-                        className={`w-full rounded-xl p-3 text-xs focus:outline-none border shadow-inner ${isCute ? 'bg-white text-[#1A202C] border-[#9BCEC1]/60 focus:border-[#FFB6A6]' : isSage ? 'bg-[#1E271F] text-white border-[#99CDD8]/40 focus:border-[#99CDD8]' : isPurple ? 'bg-[#2B1138] text-white border-[#A56ABD]/40 focus:border-[#A56ABD]' : 'bg-black text-white border-[#FF3737]/40 focus:border-[#FF3737]'}`}
-                        required
-                      >
-                        <option value="">-- Choose Candidate to Evaluate --</option>
-                        {participants.map((p) => (
-                          <option key={p.id} value={p.id}>
-                            {p.name} ({p.rollNo} • {p.primaryDomain})
-                          </option>
-                        ))}
-                      </select>
-                    </div>
-
-                    <div>
-                      <label className={`block text-xs font-bold mb-1.5 ${isCute ? 'text-[#67A2C5]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FF8383]'}`}>
-                        Select PI Round *
-                      </label>
-                      <select
-                        value={selectedRoundId}
-                        onChange={(e) => setSelectedRoundId(e.target.value)}
-                        className={`w-full rounded-xl p-3 text-xs focus:outline-none border shadow-inner ${isCute ? 'bg-white text-[#1A202C] border-[#9BCEC1]/60 focus:border-[#FFB6A6]' : isSage ? 'bg-[#1E271F] text-white border-[#99CDD8]/40 focus:border-[#99CDD8]' : isPurple ? 'bg-[#2B1138] text-white border-[#A56ABD]/40 focus:border-[#A56ABD]' : 'bg-black text-white border-[#FF3737]/40 focus:border-[#FF3737]'}`}
-                        required
-                      >
-                        {piRounds.map((r) => (
-                          <option key={r.id} value={r.id}>
-                            {r.roundName} (Max 100 pts)
-                          </option>
-                        ))}
-                      </select>
-                    </div>
+                  <div>
+                    <label className={`block text-xs font-bold mb-1.5 ${isCute ? 'text-[#67A2C5]' : isSage ? 'text-[#99CDD8]' : isPurple ? 'text-[#A56ABD]' : 'text-[#FF8383]'}`}>
+                      Select Candidate *
+                    </label>
+                    <select
+                      value={evalCandidateId}
+                      onChange={(e) => setEvalCandidateId(e.target.value)}
+                      className={`w-full rounded-xl p-3 text-xs focus:outline-none border shadow-inner ${isCute ? 'bg-white text-[#1A202C] border-[#9BCEC1]/60 focus:border-[#FFB6A6]' : isSage ? 'bg-[#1E271F] text-white border-[#99CDD8]/40 focus:border-[#99CDD8]' : isPurple ? 'bg-[#2B1138] text-white border-[#A56ABD]/40 focus:border-[#A56ABD]' : 'bg-black text-white border-[#FF3737]/40 focus:border-[#FF3737]'}`}
+                      required
+                    >
+                      <option value="">-- Choose Candidate to Evaluate --</option>
+                      {participants.map((p) => (
+                        <option key={p.id} value={p.id}>
+                          {p.name} ({p.rollNo} • {p.primaryDomain})
+                        </option>
+                      ))}
+                    </select>
                   </div>
 
                   {/* Candidate Info Quick Preview Card */}
