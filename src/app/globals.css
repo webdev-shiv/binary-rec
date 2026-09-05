@@ -2,37 +2,117 @@
 
 @layer base {
   :root {
-    --bg-dark: #0f131a;
-    --bg-card: #171d26;
-    --bg-card-hover: #1f2734;
-    --border-dark: #273142;
+    /* Theme 1: Sage & Pastel Breeze Palette */
+    --pastel-aqua: #99CDD8;
+    --pastel-mint: #DAEBE3;
+    --pastel-peach: #FDE8D3;
+    --pastel-coral: #F3C3B2;
+    --pastel-sage: #CFD6C4;
+    --slate-sage-dark: #2C362D;
+    --slate-sage-deep: #1E271F;
+    --slate-sage: #657166;
 
-    --cool-white: #D7E8FA;
-    --charcoal: #76542C;
-    --lime-green: #5DF9C0;
-    --ocean-blue: #3B1EFF;
+    /* Theme 2: Purple Lavender Palette */
+    --plum-dark: #2B1138;
+    --plum-deep: #49225B;
+    --purple-rich: #6E3482;
+    --amethyst: #A56ABD;
+    --lavender-light: #E7DBEF;
+    --lavender-white: #F5EBFA;
+
+    /* Theme 3: Black & Gold Palette */
+    --bg-dark: #000000;
+    --bg-navy: #14213D;
+    --gold: #FCA311;
+
+    /* Theme 4: Sunset Red & Apricot Palette */
+    --target-red: #FF3737;
+    --target-salmon: #FF8383;
+    --target-apricot: #FFC193;
+    --target-cream: #FFEDCE;
+    --target-dark: #1F151B;
+    --target-surface: #2D1D26;
+
+    /* Theme 5: Cute Pastel Light Palette (Cute Light Theme) */
+    --cute-peach: #FFB6A6;
+    --cute-cream: #FFEBD3;
+    --cute-mint: #9BCEC1;
+    --cute-blue: #67A2C5;
+    --cute-dark: #2D3748;
   }
 
   body {
-    background-color: var(--bg-dark);
-    color: #e2e8f0;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    min-height: 100vh;
   }
 }
 
-/* Glassmorphism & Custom Glow Utilities */
-.glass-panel {
-  background: rgba(23, 29, 38, 0.75);
-  backdrop-filter: blur(12px);
-  border: 1px solid rgba(215, 232, 250, 0.1);
+/* Glassmorphism Panels */
+.glass-panel-cute {
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(155, 206, 193, 0.5);
+  color: #2D3748;
 }
 
-.glow-blue {
-  box-shadow: 0 0 20px rgba(59, 30, 255, 0.35);
+.glass-panel-cute-card {
+  background: linear-gradient(135deg, rgba(255, 235, 211, 0.95) 0%, rgba(255, 255, 255, 0.98) 100%);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 182, 166, 0.6);
+  color: #2D3748;
 }
 
-.glow-lime {
-  box-shadow: 0 0 20px rgba(93, 251, 194, 0.35);
+.glow-cute {
+  box-shadow: 0 0 25px rgba(255, 182, 166, 0.55);
+}
+.glass-panel-sage {
+  background: rgba(44, 54, 45, 0.8);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(153, 205, 216, 0.35);
+}
+
+.glass-panel-sage-card {
+  background: linear-gradient(135deg, rgba(60, 72, 61, 0.85) 0%, rgba(30, 39, 31, 0.95) 100%);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(243, 195, 178, 0.35);
+}
+
+.glow-aqua {
+  box-shadow: 0 0 25px rgba(153, 205, 216, 0.4);
+}
+
+.glow-coral {
+  box-shadow: 0 0 25px rgba(243, 195, 178, 0.4);
+}
+
+.glass-panel-purple {
+  background: linear-gradient(135deg, rgba(73, 34, 91, 0.9) 0%, rgba(35, 14, 47, 0.95) 100%);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(165, 106, 189, 0.45);
+}
+
+.glow-purple {
+  box-shadow: 0 0 25px rgba(165, 106, 189, 0.4);
+}
+
+.glass-panel-gold {
+  background: linear-gradient(135deg, rgba(20, 33, 61, 0.9) 0%, rgba(0, 0, 0, 0.95) 100%);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(252, 163, 17, 0.35);
+}
+
+.glow-gold {
+  box-shadow: 0 0 25px rgba(252, 163, 17, 0.4);
+}
+
+.glass-panel-target {
+  background: linear-gradient(135deg, rgba(35, 18, 24, 0.94) 0%, rgba(20, 12, 18, 0.98) 100%);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(255, 131, 131, 0.45);
+}
+
+.glow-target {
+  box-shadow: 0 0 25px rgba(255, 55, 55, 0.45);
 }
 
 /* Custom Scrollbar */
@@ -41,12 +121,13 @@
   height: 8px;
 }
 ::-webkit-scrollbar-track {
-  background: #0f131a;
+  background: #1E271F;
 }
 ::-webkit-scrollbar-thumb {
-  background: #273142;
+  background: #657166;
+  border: 1px solid rgba(153, 205, 216, 0.3);
   border-radius: 4px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #3B1EFF;
+  background: #99CDD8;
 }

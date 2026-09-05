@@ -37,7 +37,7 @@ model Participant {
   gender                String           @default("Unspecified")
   email                 String
   contactNo             String           @default("")
-  year                  String           @default("1st Year")
+  year                  String           @default("2nd Year")
   branch                String           @default("CSE")
   section               String           @default("A")
   residentialStatus     String           @default("Hosteller")
